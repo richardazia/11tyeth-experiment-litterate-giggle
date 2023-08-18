@@ -1,5 +1,5 @@
 ---
-title: Richard's 11ty current contents experiment
+title: Richard's 11ty Current Contents Experiment
 ---
 
 <!doctype html>
@@ -14,14 +14,11 @@ title: Richard's 11ty current contents experiment
   </head>
   <body>
     <h1>Richard's 11ty Experiment</h1>
-    <h2>{{ title }}</title>
-
     {{ content | safe }}
-
     <hr>
     <ul>
       {%- for post in collections.all -%}
-        <li><a href="{{ post.url }}">{{ post.url }}</a></li>
+        <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </body>
