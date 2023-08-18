@@ -1,0 +1,221 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    /*---- General settings ----*/
+  body {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+  h1, h2, h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+@media screen and (min-width:750px) {
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:749px) {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  /*top nav */
+ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {
+              float: none;
+            }
+            ul {
+              text-align: center;
+            }
+          }
+/* grid layout */
+@media screen and (min-width:750px) {
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 0px;
+  }
+}
+@media screen and (min-width:750px) {
+  .amazon-grid {
+    display: grid;
+    grid-template-columns: auto 170px;
+    justify-items: center;
+    align-items: start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    text-align: justify;
+  }
+}
+@media screen and (max-width:600px) {
+  .amazon-footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    visibility: hidden;
+  }
+}
+/*--- grid items span two columns---*/
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin: auto;
+  width: 70%;
+  
+}
+/*--- For Tables ---*/
+#latin {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Latin td, #latin th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Latin tr:nth-child(even){background-color: #f2f2f2;}
+#latin tr:hover {background-color: #ddd;}
+#latin th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* Extra css */
+.article {
+  margin: auto;
+  width: 80%;
+  padding: 5px;
+}  
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin: auto;
+  text-align: justify;
+}
+
+div, iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+abbr {
+  font-style: italic;
+  color: chocolate;
+}
+
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roadside Fires and Hashtags</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>Roadside Fires and Hashtags</title></h2>
+    <p><a href="../">back</a></p>
+
+    <p>There is a level three risk of foresst fires at the moment. Now is a time when smoking and other forms of fire should be forbidden. Now is the time of year where the sides of roads catch alight easily. Forests are at risk.
+Yesterday when driving home I spotted a fire by the side and I reported it on Waze. They don't have a &quot;warn about roadside fires&quot; option yet. I have now added it as a suggestion.The sooner a fire can be reported, the sooner firefighters or other emergency services can put it out.</p>
+<h2>Hashtags</h2>
+<p>I hate hashtags. I have tweeted my hate for them since they came out in 2007  or 2008. I hate them because I came to the web when meta information was meant to be hidden in the meta data of a page, not plastered as white text on a white background to spam search engines.
+I was playing with the Pixelfed iOS app yesterday and I wanted to explore the social network. I gave up within seconds. I scrolled down and I saw that rather than sub groups that were for cats, dogs, lemmings, landscapes and more the sub categories, or categories were hashtags.</p>
+<h2>Why Hashtags are crap</h2>
+<p>Hashtags are crap for two reasons. The first of these, as I argued back in 2007-2008 is that it makes it easy for spammers to look for a hashtag and start to spam a conversation with little to no effort. It neutralises the possiblity of good engaged conversations, especially around some topics.</p>
+<p>The second reason is that with WordPress, Hugo and other content management system style services you can generate pages with tags and categories directly.</p>
+<h2>The Origin of the Hashtag</h2>
+<p>People forget that the hashtag was developed when Twitter was an SMS compatible system. Hashtags would allow people to quickly and easily see the topic of a tweet withing having to read the entire text. Now though, in the age of dedicated apps, the hashtag is obsolete, and should be destroyed.</p>
+<h2>Threads Wants Hashtags</h2>
+<p>I'm writing about this topic because I saw that Pixelfed uses hashtags, rather than tags or categories, which I find absurd, but also because I see that Threads wants to implement hashtags.</p>
+<h2>So Called Ugly URLs</h2>
+<p>The same culture that calls hyperlinks with extentions ugly is fine with #tags. That's absurd. As an archivist and Media asset manager I think that having /topic/index.html that resolves to /topics/  is much uglier than /topic/ducks.html because when you want to find a file you need to sort through thousands of index.html files that mean nothing if you don't read the front matter of the files.</p>
+<h2>Hashtags are Fashion Over Function</h2>
+<p>Hashtags, in my eyes, are fashion over function. By adding a tags text field, you could add keywords/tags, and have the software create relevant hyperlinks. Tags work extremely well on Hugo,and categories work well on WordPress. We don't need to use ugly hashtags, when proper meta data practices would do the same thing, without wasting characters.</p>
+<h2>An Alternate Solution For Idiots Like Me</h2>
+<p>The alternate solution, to keep idiots like me, happy, would be to see that someone wrote hashtag keyword, and have the website parse the hashtag and turn it into a hyperlink to that keyword automatically. We have had href tags for decades, and that's why hashtags are so absurd.</p>
+<p>It encourages me to see that not everyone puts hashtags in every post on Mastodon.</p>
+
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

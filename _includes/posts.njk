@@ -1,0 +1,29 @@
+---
+title: Richard's 11ty current contents experiment
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    {% include "bundle.css" %}
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>{{ title }}</title></h2>
+    <p><a href="../">back</a></p>
+
+    {{ content | safe }}
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,237 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    /*---- General settings ----*/
+  body {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+  h1, h2, h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+@media screen and (min-width:750px) {
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:749px) {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  /*top nav */
+ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {
+              float: none;
+            }
+            ul {
+              text-align: center;
+            }
+          }
+/* grid layout */
+@media screen and (min-width:750px) {
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 0px;
+  }
+}
+@media screen and (min-width:750px) {
+  .amazon-grid {
+    display: grid;
+    grid-template-columns: auto 170px;
+    justify-items: center;
+    align-items: start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    text-align: justify;
+  }
+}
+@media screen and (max-width:600px) {
+  .amazon-footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    visibility: hidden;
+  }
+}
+/*--- grid items span two columns---*/
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin: auto;
+  width: 70%;
+  
+}
+/*--- For Tables ---*/
+#latin {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Latin td, #latin th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Latin tr:nth-child(even){background-color: #f2f2f2;}
+#latin tr:hover {background-color: #ddd;}
+#latin th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* Extra css */
+.article {
+  margin: auto;
+  width: 80%;
+  padding: 5px;
+}  
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin: auto;
+  text-align: justify;
+}
+
+div, iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+abbr {
+  font-style: italic;
+  color: chocolate;
+}
+
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git-FTP and Web Development</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>Git-FTP and Web Development</title></h2>
+    <p><a href="../">back</a></p>
+
+    <p>From the way people write about Github you would believe that everything has to pass through it, for anything to work but after some trial and error I found this to be a misconception.</p>
+<p>I found that with <a href="https://github.com/git-ftp/git-ftp">GIT-FTP on Github</a> I could upload and download files to a website after each git update. I learned this through following instructions for <a href="https://blog.hajruli.ch/2020/05/hugo-infomaniak-githubactions/">another workflow</a>. I followed these instructions but because I use disroot rather than github the workflow didn't work for me. I considered migrating my repository to github but chose not to.</p>
+<h2>Experimenting with Git-FTP</h2>
+<p>I spent a lot of time experimenting with Git-FTP, not because it's complicated to use, but because the instructions I had confused me.</p>
+<p>When I experiment with Hugo I have a git repository that tracks the changes for everything but the public file, so when I tried to upload the website after telling it not to use public, I then had to delete tens of thousands of files from the FTP site, twice.</p>
+<p>The workflow that is mentioned above works well if you're on github but I am not so it was nice to try, but not that useful. The more interesting option is to use git-FTP directly with the &quot;public&quot; Hugo build directory.</p>
+<h2>Git, Git FTP and the Public directory</h2>
+<p>The quickest, smoothest workflow I found is to track changes within the public folder and upload to the ftp server that way.</p>
+<ul>
+<li>Git init within the public folder and commit the initial version.</li>
+</ul>
+<h2>The instructions to Install Git FTP</h2>
+<p>The simplest way to [install git-ftp] on a mac is with Brew. Within a few seconds you're ready.</p>
+<p>The next step:</p>
+<ol>
+<li>git config git-ftp.url &quot;ftp://ftp.example.net:21/public_html&quot;</li>
+<li>git config git-ftp.user &quot;ftp-user&quot;</li>
+<li>git config git-ftp.password &quot;secr3t&quot;</li>
+</ol>
+<p>After this you use git ftp init and it will upload all the files.</p>
+<p><a href="https://github.com/git-ftp/git-ftp/blob/master/man/git-ftp.1.md">List of Commands</a></p>
+<p>With this workflow you don't need github or any other repository. You make your changes locally, update git, and once that is done &quot;push&quot; the files that have been changed. It takes seconds and a few lines of instructions</p>
+<h2>The Old Method</h2>
+<p>The old method, that I have been using for decadess, is to work on a file, save it, and then use filezilla, cyberduck or some other client and upload the changed files. This method requires you to keep track of dates, and ensure that all files, from all locations, are uploaded. By using git-ftp you eliminate the need for github and others, and upload files, straight after updating the git repository. I can see myself using this all the time from now on.</p>
+<p>While writing this blog post I did come across this command.</p>
+<blockquote>
+<p>-P, --ask-passwd : Ask for FTP password interactively.</p>
+</blockquote>
+<p>If you use a machine that other people use then this command is a better one to use because I noticed that you can see information in clear text in terminal, which is not good. Anyone that has access to the computer can run check the terminal log and find that sensitive information.</p>
+<p>In my case, and for my experimenting the ftp account I created only has access to the blog folder, and no others. In this manner only one folder can be compromised so easily.</p>
+<h2>The Beauty of This Tool</h2>
+<p>The beauty of this tool, in my eyes, is that I can work on a website and I can track changes with Git but I don't need to use github pages, netlify or any other tools. I can create full fledged websites and webpages and update the site by updating the git repo and then git ftp push and within seconds the site that I'm working on is up to date, without being locked in to any other site where I am the product.</p>
+<p>I like being self-hosted, and I disliked the idea of dumping a website and domain I have used for decades, to take advantage of a simpler workflow.</p>
+<h2>And Finally</h2>
+<p>Plenty of instructions and workflows show the benefit of using their products and their workflows, to lock you in to their system. By trial and error I learned that tools exist to streamline the workflow without github. Too much of the web is built around docker, github and other solutions. The result is that you find plenty of instructions for a technique that will trap you, rather than provide you with independence. My blog post is written to help you enjoy greater freedom.</p>
+
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

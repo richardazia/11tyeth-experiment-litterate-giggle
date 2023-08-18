@@ -1,0 +1,209 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    /*---- General settings ----*/
+  body {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+  h1, h2, h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+@media screen and (min-width:750px) {
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:749px) {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  /*top nav */
+ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {
+              float: none;
+            }
+            ul {
+              text-align: center;
+            }
+          }
+/* grid layout */
+@media screen and (min-width:750px) {
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 0px;
+  }
+}
+@media screen and (min-width:750px) {
+  .amazon-grid {
+    display: grid;
+    grid-template-columns: auto 170px;
+    justify-items: center;
+    align-items: start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    text-align: justify;
+  }
+}
+@media screen and (max-width:600px) {
+  .amazon-footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    visibility: hidden;
+  }
+}
+/*--- grid items span two columns---*/
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin: auto;
+  width: 70%;
+  
+}
+/*--- For Tables ---*/
+#latin {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Latin td, #latin th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Latin tr:nth-child(even){background-color: #f2f2f2;}
+#latin tr:hover {background-color: #ddd;}
+#latin th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* Extra css */
+.article {
+  margin: auto;
+  width: 80%;
+  padding: 5px;
+}  
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin: auto;
+  text-align: justify;
+}
+
+div, iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+abbr {
+  font-style: italic;
+  color: chocolate;
+}
+
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Migration</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>Blog Migration</title></h2>
+    <p><a href="../">back</a></p>
+
+    <p>Although it is absurd i decided to migrate the blog from <a href="https://www.main-vision.com/richard/blog/">https://www.main-vision.com/richard/blog/</a> to <a href="https://blog.main-vision.com/">https://blog.main-vision.com/</a>. It is absurd because the website has been at the same URL since 2004 or so, and to move it is to lose years of hyperlinks. At the same time the updated URL should be preferred by search engines.</p>
+<h2>The Blog Is In The Fediverse</h2>
+<p>It is also part of the fediverse now, which means that every post can be followed by people natively on the fediverse, rather tha via RSS, Jetpack and more. In theory this should make the site more visible. It will take a little time for search engines to update their links but when they do things will be back to normal.</p>
+<h2>WordPress Doesn't Like To Be In Two Places At Once</h2>
+<p>Wordpress doesn't like to be in two places at once, which is why I was forced to ship or get off the pot. I might have modified one word to make it more family friendly. The point is that plugins hate when they find that they are at two URLs. You fix the blog in one place, and the second place will break the place you just fixed. The result is that you're forced to choose one, or the other. WordPress is fine in being in two or three places, but plugins hate being in limbo.</p>
+<h2>Discontinuing the Hugo Version</h2>
+<p>Although I really like playing with Hugo, the static website generator I dislike how slow it is to update a website with so many pages and hyperlinks. Generating the site takes a short amount of time, but updating the website online takes ages, and because of this it has become unsustainable to continue the experiment.  When I find a more efficient way of updating just the pages that have changed, on the server, I can revert to playing with Hugo.</p>
+
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

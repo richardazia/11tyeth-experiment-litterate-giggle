@@ -1,0 +1,232 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    /*---- General settings ----*/
+  body {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+  h1, h2, h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+@media screen and (min-width:750px) {
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:749px) {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  /*top nav */
+ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {
+              float: none;
+            }
+            ul {
+              text-align: center;
+            }
+          }
+/* grid layout */
+@media screen and (min-width:750px) {
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 0px;
+  }
+}
+@media screen and (min-width:750px) {
+  .amazon-grid {
+    display: grid;
+    grid-template-columns: auto 170px;
+    justify-items: center;
+    align-items: start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    text-align: justify;
+  }
+}
+@media screen and (max-width:600px) {
+  .amazon-footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    visibility: hidden;
+  }
+}
+/*--- grid items span two columns---*/
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin: auto;
+  width: 70%;
+  
+}
+/*--- For Tables ---*/
+#latin {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Latin td, #latin th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Latin tr:nth-child(even){background-color: #f2f2f2;}
+#latin tr:hover {background-color: #ddd;}
+#latin th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* Extra css */
+.article {
+  margin: auto;
+  width: 80%;
+  padding: 5px;
+}  
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin: auto;
+  text-align: justify;
+}
+
+div, iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+abbr {
+  font-style: italic;
+  color: chocolate;
+}
+
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Culture of Hashtags</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>The Culture of Hashtags</title></h2>
+    <p><a href="../">back</a></p>
+
+    <p>Yesterday I noticed that the blog posts I write in Hugo via Vim are uglified on Mastodon and Calckey. By uglified I mean that the neat and tidy key words that I use as tags are converted into hashtags on Mastodon and Calckey and this makes me both sad and angry. It makes me sad because hashtags are a way of spamming conversations, and of allowing people who are not invested to participate in conversations.</p>
+<p>The second reason is that hashtags are ugly. It's like wearing socks with sandals, it's like wearing cycling clothes at the cinema. It's a bad habit that needs to stop.</p>
+<h2>The History of the Hashtag</h2>
+<p>Originally Twitter was a web based, and SMS based platform. With SMS you can't use HTML tags, so you need a symbol to differentiate between words and normal content.</p>
+<p>For a long time Twitter was just text. With time people started to interact and so we said we need to use @ replies to clarify who we are speaking to. This was fantastic because it made answering much easier. We had to remember the username, type at username and then the message. Eventually this was made more efficient. We simply pressed the reply icon and that was that. Quick, efficient, and great for conversation.</p>
+<p>The preceding paragraph is to show that I am not resistant to all change.</p>
+<p>The Hashtag was different. The hashtag made it possible to spam conversations, and to pretend you were deeply engaged within a community when the opposite was true. People create content, but rather than engage with the community, and invest their time in creating human connections, they spammed hashtags in the hope of hitting something. Imagine a child throwing stones in a lake. At first one at a time, and then handfuls. That's how hashtags are used.</p>
+<h2>The Metadata Discussion</h2>
+<p><a href="https://www.loc.gov/catdir/bibcontrol/dillon_paper.html">Metadata for Web Resources</a>
+<a href="https://www.dataversity.net/a-brief-history-of-metadata/">A Brief History of Metadata</a></p>
+<p>Back in the 90s, I remember reading articles about SEO and about metadata in pages, and web etiquette. I can't find the articles now but the idea was that if you create content, you add metadata in the appropriate metadata field in the head of the document. You do not add several lines of white text on a white background to game search engines. To some degree that's what metadata is. It's white text on a white background. Hashtags are spam.</p>
+<h2>But Hashtags are Visible</h2>
+<p>Yesterday someone argued that we need to use hashtags because they're visible, and this argument is crap. I know, I could say flawed, but I prefer to use the word I chose.
+One of the reasons that I love Hugo as a Static Website Generator is that I think of the keywords I want to add as tags within the Frontmatter of the documents I create, and they will automatically populate the article, as well as pages with lists of every article with that keyword. It's clean, it's efficient, and it's effective. Scroll to the bottom of this page and you will see the visually appealing use of tags, rather than the scruffy use of hashtags.</p>
+<h2>Hyperlinked Words To Replace Hashtags</h2>
+<p>What differentiated the Hypertext Markup Language, from other languages is the hyperlink. The hyperlink allows us to say &quot;This word, in that context links to these documents&quot;. The very idea of hypertext is that you can give behaviour to a key word or phrase, and link it to something else.</p>
+<p>The way hashtags are used today, they are being used as hyperlinks, or threads, to connect content together. Hashtags are used as metadata and since 1976 or so conventions have existed to describe how to most effectively use that metadata. By using hashtags we are ignoring the beauty of hypertext but we're also forgetting rules that were common sense until 2007 when the hashtag was suggested for Twitter, and then recycled on other social media websites.</p>
+<h2>The Trigger for this Post</h2>
+<p>What triggered me to write this blog post is looking at the articles I am sharing from Hugo to WordPress, and from WordPress to the Fediverse. The neat and tidy posts that I write with tags in the write place, are uglified by Mastodon and Calckey. It makes me appear sloppy and amateurish, but it also makes Mastodon and Calckey look bad.</p>
+<h2>What I want</h2>
+<p>What I want to see, and what I expect, is for tags, that are created as tags, for example from Wordpress, Hugo and other sources, to be kept as metadata rather than spam data. I want tags and categories to be shown as tags and categories, rather than the mess of hashtags.</p>
+<p>I was so horrified when I saw the hashtag mess at the bottom of my WordPress to Fediverse posts, that I considered dumping the fediverse entirely.</p>
+<h2>Visible, By Being Active</h2>
+<p>Someone on techhub social asked &quot;but how will you be visible?&quot; if you don't use hashtags. The answer is simple. By tooting on Mastodon, by posting notes on Calckey, by answering toots by others, by devoting more than 30 seconds to the social network. We're not fighting against an algorithm here, we're conversing with a community. Hashtags don't build community, the dilute it, by making people with no dedication more visible than people who see social media as a lifestyle.</p>
+<h2>The Bard Answer</h2>
+<p>Yesterday I gained access to Google bard so I asked bard <a href="https://g.co/bard/share/ac8ef382d3ce">
+What regex would I use to convert hashtags to keywords in ruby on rails?</a>. I could create my own Calckey or mastodon instance, where, instead of seeing hashtags, we see hyperlinked words that guide us towards other posts with the same keyword. If I can't influence the culture, away from a bad habit, then I can create an instance where that bad habit is invisible to me.</p>
+<h2>And Finally</h2>
+<p>I am not arguing against the use of metadata. I am not arguing against keywording. I am not arguing against threading. I am arguing against having metadata that should be in a dedicated field, to be displayed clearly. I use keywords for every blog post I write. I like keywording and I like cataloguing content. I am a media asset manager after all. I am a video after all. I have a passion for documentary.</p>
+<p>My argument is not with organising information. My argument is with the sloppy, amateurish use of hashtags, when we have better tools available. 33 percent of the web uses WordPress, and WordPress uses tags and categories succinctly.</p>
+
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

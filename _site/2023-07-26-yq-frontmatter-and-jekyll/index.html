@@ -1,0 +1,237 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    /*---- General settings ----*/
+  body {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+  h1, h2, h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+@media screen and (min-width:750px) {
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:749px) {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  /*top nav */
+ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {
+              float: none;
+            }
+            ul {
+              text-align: center;
+            }
+          }
+/* grid layout */
+@media screen and (min-width:750px) {
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 0px;
+  }
+}
+@media screen and (min-width:750px) {
+  .amazon-grid {
+    display: grid;
+    grid-template-columns: auto 170px;
+    justify-items: center;
+    align-items: start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    text-align: justify;
+  }
+}
+@media screen and (max-width:600px) {
+  .amazon-footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    visibility: hidden;
+  }
+}
+/*--- grid items span two columns---*/
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin: auto;
+  width: 70%;
+  
+}
+/*--- For Tables ---*/
+#latin {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Latin td, #latin th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Latin tr:nth-child(even){background-color: #f2f2f2;}
+#latin tr:hover {background-color: #ddd;}
+#latin th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* Extra css */
+.article {
+  margin: auto;
+  width: 80%;
+  padding: 5px;
+}  
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin: auto;
+  text-align: justify;
+}
+
+div, iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+abbr {
+  font-style: italic;
+  color: chocolate;
+}
+
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YQ, FrontMatter and Jekyll</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>YQ, FrontMatter and Jekyll</title></h2>
+    <p><a href="../">back</a></p>
+
+    <p>For two days I have been trying to understand how to use Jekyll, a Ruby version of Hugo. It is a Static website generator that is similar to Hugo but rather than being written in Go, it is written in Ruby. I find that it renders sites faster than Hugo, but that it has less assistance for creating pages, giving them layouts and the rest. That's why I experimented with <a href="https://github.com/mikefarah/yq">YQ</a></p>
+<blockquote>
+<p>a lightweight and portable command-line YAML, JSON and XML processor. <a href="https://github.com/mikefarah/yq">YQ</a> uses jq like syntax but works with yaml files as well as json, xml, properties, csv and tsv. It doesn't yet support everything jq does - but it does support the most common operations and functions, and more is being added continuously.</p>
+</blockquote>
+<p>I read about it in <a href="https://roneo.org/en/hugo-edit-yaml-files-from-the-cli-with-yq/">this article</a>. You can install <a href="https://github.com/mikefarah/yq">YQ</a> with a brew command <code>brew install yq</code> or you can install it in a number of other ways, depending on whether you're using MacOS, Linux or Windows.</p>
+<h2>The Use case</h2>
+<p>Exporting a WordPress blog to MD files can be done with a multitude of tools but they don't add all the FrontMatter that you need for a blog, especially Jekyll. I imported the most recent blog posts, that I created for Hugo, with a year-month-date-title.md name to the posts folder but I created a second one for the archive. As the file title was different Jekyll did not like the files. The problem was the file name format, so that's why I created a separate directory.</p>
+<h2>Side Note on Reading the Archives MD Files</h2>
+<p><a href="https://g.co/bard/share/995044bd6897">Bard's help</a>: I provide this to help you understand Jekyll logic, as well as Bard help.</p>
+<h2>Getting It To Work On MacOS</h2>
+<p>In the article about using YQ to edit FrontMatter for Hugo pages the first part worked fine, but it's written for Linux rather than macOS so some commands failed. This is where Bard comes in.You can ask Bard to explain what parts of a line of code or a command does and it will explain it to you, and you can eventually transfer the command that is understood by one OS and get it to work with the other.</p>
+<p>I tried this <code>find -name  &quot;*.md&quot; -exec yq --front-matter=&quot;process&quot; '.updated_at = now' {} \;</code> but it failed to work. <a href="https://g.co/bard/share/5ef10215c9d5">Bard was kind enough to explain the options</a> for me to figure out which options to use. I added the correct path, and specified that I was looking for the files with the 'type f' flag.</p>
+<p><code>find ./_posts -type f -name &quot;*.md&quot; -exec yq '.title' {} \; To see the title of .md files</code></p>
+<p>I wanted to add these two lines to the FrontMatter of the files in the relevant folder.</p>
+<p>I tested <code>find ../unprocessed &quot;*.md&quot; -exec yq --front-matter=&quot;process&quot; '.updated_at = now' {} \;</code> and this works but does not make changes.</p>
+<p>This works and updates the pages to add the updated at field to the metadata with the keyword now. The -i tells it to write to the file.</p>
+<p>The full command is <code>find ../unprocessed -name &quot;*.md&quot; -exec yq e --front-matter=&quot;process&quot; '.updated_at = now' -i {} \; works to add updated now tag</code>.</p>
+<h2>Implementing the Required Change</h2>
+<p>The lines that I wanted to add to the front matter were 'layout: post' and 'categories: [archives]'. After the trial and error described above I tried:</p>
+<blockquote>
+<p><code>find ../unprocessed -name &quot;*.md&quot; -exec yq e --front-matter=&quot;process&quot; '.updated_at = now' -i {} \;</code> works to add updated now tag
+<code>find ../unprocessed -name &quot;*.md&quot; -exec yq e --front-matter=&quot;process&quot; '.layout = post' -i {} \;</code> works to add updated now tag</p>
+</blockquote>
+<p>Finally the command to make a permanent change was:
+<code>find ../_archives -name &quot;*.md&quot; -exec yq e --front-matter=&quot;process&quot; '.layout = &quot;post&quot;' -i {} \;</code></p>
+<p><code>find ../_archives -name &quot;*.md&quot; -exec yq e --front-matter=&quot;process&quot; '.categories = &quot;[categories]&quot;' -i {} \;</code></p>
+<ul>
+<li>A Quick explanation. The ../archives needs to be replaced with the name of the folder your files are in, when terminal i in the same folder. .layout and .categories are the names of the field to add and the &quot;text&quot; part is the content that you want to add to the front matter.</li>
+<li>I have unprocessed and archives folders because I tested the code on two files to start with, and when I saw that it worked, then I moved to the main archives folder. I also used git to have a backup of the latest versions. If something had gone wrong I could have &quot;stashed&quot; the mistake, and been back to normal.</li>
+</ul>
+<p>The first line ads the layout information to the FrontMatter post and the second one adds the categories information to the posts. Instead of spending hours doing something manually I was able to find the right tools to do what I wanted within seconds.</p>
+<h2>The Process</h2>
+<p>I knew what I wanted to do. I started with a google search to see if I could find a tool with some instructions and I did. The instructions were useful, but of limited use for my setup so I used the app's documentation to try one thing, establishing that this worked, before moving on to accomplish the task that I had set for myself-. Google Bard was able to provide me with some help, but so did chatGPT.</p>
+<p>The value of AI tools, in my eyes, is to help us understand the code we're looking at, but also to help us tweak it for the OS we're using, when we get error messages. I appreciate that with AI we can ask &quot;I'm getting this error message, why?&quot; and it will help find an answer to the question.</p>
+<p>If a web article had provided me with a solution that worked I would have stuck to the web page and I would have little to write about. It is because of trial and error, and using four sources to achieve the goal that I wanted to achieve, that it becomes blog worthy.</p>
+
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

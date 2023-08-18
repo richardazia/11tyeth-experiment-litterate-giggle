@@ -1,0 +1,224 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    /*---- General settings ----*/
+  body {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+  h1, h2, h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+@media screen and (min-width:750px) {
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:749px) {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  /*top nav */
+ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {
+              float: none;
+            }
+            ul {
+              text-align: center;
+            }
+          }
+/* grid layout */
+@media screen and (min-width:750px) {
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 0px;
+  }
+}
+@media screen and (min-width:750px) {
+  .amazon-grid {
+    display: grid;
+    grid-template-columns: auto 170px;
+    justify-items: center;
+    align-items: start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    text-align: justify;
+  }
+}
+@media screen and (max-width:600px) {
+  .amazon-footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    visibility: hidden;
+  }
+}
+/*--- grid items span two columns---*/
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin: auto;
+  width: 70%;
+  
+}
+/*--- For Tables ---*/
+#latin {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Latin td, #latin th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Latin tr:nth-child(even){background-color: #f2f2f2;}
+#latin tr:hover {background-color: #ddd;}
+#latin th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* Extra css */
+.article {
+  margin: auto;
+  width: 80%;
+  padding: 5px;
+}  
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin: auto;
+  text-align: justify;
+}
+
+div, iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+abbr {
+  font-style: italic;
+  color: chocolate;
+}
+
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mainstream Fediverse</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>Mainstream Fediverse</title></h2>
+    <p><a href="../">back</a></p>
+
+    <p>I started writing a post, but felt that it was too negative so I stopped, and now I'm writing this one. I want to explore the way in which Facebook, Instagram, YouTube, Twitter and Reddit are still front and foremost on The Guardian Website, as well as many others.</p>
+<p>As I write this Twitter has become x.com. Reddit has had several weeks of protests and Facebook reached over three billion users. The paradox, with Facebook is that it's the most unpleasant &quot;social network&quot; I know. I find Facebook and Instagram deeply unpleasant to use.</p>
+<h2>The Slow Pivot Away From Corporate Social Media</h2>
+<p>The goal is not to speak about the social media giants, because plenty of people can do that. What I want to consider, is the lack of attention that is being given to Lemmy, Kbin, Firefish, Mastodon and the Fediverse in general. There is now a fediverse of social networks that we can use to share news, and life.</p>
+<p>I don't see any &quot;share with Pixelfed&quot; or share on &quot;peertube&quot;. I don't even really see &quot;share via the wordpress community.</p>
+<p>By now I would have expected the Guardian, New York Times, Le Monde and other papers to start sharing their news stories and articles via the Fediverse, especially since making a website fediverse friendly is relatively easy, especially if you're on a self-hosted wordpress blog. Within minutes a wordpress blog can be a fediverse server, if not sooner.</p>
+<h2>Professional Social Media</h2>
+<p>If I was working in Professional Social Media I would already have pivoted towards streamlining fediverse participation. With the fediverse a website, or instance, can be fully integrated within the fediverse, making it easier to engage, rather than more difficult. No need for people to sign in, to sign up, or even to browse away from their mastodon feed. Everything is integrated.</p>
+<p>You can reply to a fediverse blog post, as a reply, and it's seamless. There is no barrier to interaction, as we had with older social media websites.</p>
+<h2>No Navigating Away - No Threads</h2>
+<p>With the fediverse you can write posts of any length. You can microblog, if you wish, or you can write a dissertation. Both are native, so need to navigate from one website to another, and because character limits don't exist, if you're on the right instances, then there is no need for threads.</p>
+<h2>Threads and the Network Defect</h2>
+<p>Threads was launched and picked up 100 million users, but they were soon angry that they couldn't cancel their accounts without destroying their Instagram accounts, but they also found that by not being able to see their followers with ease, the new site/app had little to no value, so 70 million left. It might have been quick to grow but due to design flaws it was also quick to lose users.</p>
+<h2>FB hasn't learned</h2>
+<p>I left FB and IG because the sense of community was lost. The reason people fled Twitter too, is because of the disintegration of the communitiies that they wanted to be a part of. I said that Threads would not be of interest, and as we see, within a week it had lost its appeal.</p>
+<h2>Not Just Conversations</h2>
+<p>The fediverse is not just a way for people to chat with each other. It's a way of sharing entire articles, blog posts, videos, photos and more.</p>
+<p>Blog posts, articles and photos are more than that. They are the start of a conversation. If people comment then that content becomes more visible because it bubbles back to the surface again.</p>
+<h2>New Opportunities</h2>
+<p>in 2006 and 2007 Twitter was limited by the bandwidth that we had on mobile phones, wifi and home connections. In 2023 the environment is mature. Live video whilst walking, sharing of photos from anywhere, and more, have become common place. The Fediverse is already, video, text, audio, photos, articles, blogs and more.</p>
+<h2>The Fediverse as Portal</h2>
+<p>The concept of web portals is an old one, and one of the oldest ones still around is Yahoo. If used properly then the Fediverse can be seen as a portal, for communities to join together and communicate. The Guardian, New york Times and others should take advantage of the opportunities that the Fediverse provides people with.</p>
+
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

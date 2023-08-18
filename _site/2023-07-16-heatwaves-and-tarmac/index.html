@@ -1,0 +1,228 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <style>
+    /*---- General settings ----*/
+  body {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+  h1, h2, h3 {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+@media screen and (min-width:750px) {
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:749px) {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  /*top nav */
+ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {
+              float: none;
+            }
+            ul {
+              text-align: center;
+            }
+          }
+/* grid layout */
+@media screen and (min-width:750px) {
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 0px;
+  }
+}
+@media screen and (min-width:750px) {
+  .amazon-grid {
+    display: grid;
+    grid-template-columns: auto 170px;
+    justify-items: center;
+    align-items: start;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    text-align: justify;
+  }
+}
+@media screen and (max-width:600px) {
+  .amazon-footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    visibility: hidden;
+  }
+}
+/*--- grid items span two columns---*/
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin: auto;
+  width: 70%;
+  
+}
+/*--- For Tables ---*/
+#latin {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Latin td, #latin th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Latin tr:nth-child(even){background-color: #f2f2f2;}
+#latin tr:hover {background-color: #ddd;}
+#latin th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* Extra css */
+.article {
+  margin: auto;
+  width: 80%;
+  padding: 5px;
+}  
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin: auto;
+  text-align: justify;
+}
+
+div, iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+abbr {
+  font-style: italic;
+  color: chocolate;
+}
+
+    </style>
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heatwaves and Tarmac</title>
+  </head>
+  <body>
+    <div class="article">
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>Heatwaves and Tarmac</title></h2>
+    <p><a href="../">back</a></p>
+
+    <p>When you cycle you feel the difference between different landscapes between seconds. You go from farming landscapes to wooded areas near forests before finally getting to the cities. In the process you notice the difference in temperatures between these different land uses.</p>
+<h2>The Permanent Summer Heatwave</h2>
+<p>This summer has been mild in Switzerland, so far, but it could get up to 37°c for several days at a time again. As heat becomes more common the way the Swiss are building new properties becomes absurd. Where there was a single house, surrounded by grass, with two of three trees, and shade, you get a tarmaced parking space, with walls that prevent breezes and tarmac that absors the heat during the day, and radiates it at night. Fantastic in winter, awful in summer.</p>
+<h2>More and More Swimming Pools</h2>
+<p>According to the RTS <a href="https://www.rts.ch/info/sciences-tech/environnement/14167464-limpact-ecologique-des-piscines-un-debat-bien-trempe.html">More and more people want swimming pools</a>. The falacy of pools is that require electricity for water filtering pumps, and to heat the water. They also require water due to evaporation and being splashed out of the pool as people play.</p>
+<h2>The Stratosphere and Rocket Launches</h2>
+<p>One of the more interesting theories I came across a year or two ago was the notion that rocket launches are <a href="https://www.theguardian.com/science/2021/jul/19/billionaires-space-tourism-environment-emissions">taking a lot of material into the stratosphere</a>, where it has a greater impact.</p>
+<ul>
+<li>But emissions from rockets are emitted right into the upper atmosphere, which means they stay there for a long time: two to three years. Even water injected into the upper atmosphere – where it can form clouds – can have warming impacts, says Marais. “Even something as seemingly innocuous as water can have an impact.”</li>
+</ul>
+<p>It's interesting that as rocket launches increase in frequency climate change appears to increase in severity, due to the positive feedback loop. In Environmental Science this describes how change feeds upon itself and increases in severity over time.</p>
+<ul>
+<li>Closer to the ground, all fuels emit huge amounts of heat, which can add ozone to the troposphere, where it acts like a greenhouse gas and retains heat. In addition to carbon dioxide, fuels like kerosene and methane also produce soot. And in the upper atmosphere, the ozone layer can be destroyed by the combination of elements from burning fuels.</li>
+</ul>
+<p>More should be done to investigate the environmental impact of launches, and, I feel, we should reduce their frequency until we understand their impact on the planet.</p>
+<h2>49°c in Several cities</h2>
+<p>According to the Guardian <a href="https://www.theguardian.com/world/2023/jul/15/europe-heatwave-red-alerts-italy-cities-weather">European heatwave: red alerts issued for 16 cities in Italy</a>, with temperatures up to 49°c. Usually 40°c was considered hot in Europe. Now we're talking about 49°c.</p>
+<p>The tragedy of this situation is that if you look at motorways, and car use, it hasn't changed. There was a brief honeymoon period during the pandemic when people gave up their cars to walk and cycle. Now the toxic habit of driving everywhere is back. People are overheating, but they're not making things better, by not adapting their driving habits.</p>
+<h2>Animal Deaths</h2>
+<p>Trees are getting dehydrated as they have to survive drought after drought. They are also suffering from insect infestations, due to the milder weather not kiling off pests in winter. <a href="https://www.rts.ch/info/suisse/14172049-victimes-de-la-canicule-de-nombreux-bebes-martinets-se-jettent-du-nid.html">Baby birds are dying</a> because as they try to get to cooler air they are falling out of their nests.</p>
+<h2>Crossover</h2>
+<p>When I was watching the Canadian documentary series &quot;Big Timber&quot; in season two they regularly mentioned the term <a href="https://www.cbc.ca/news/canada/wildfire-term-cheat-sheet-1.6863877#:~:text=It's%20an%20indication%20of%20extreme,on%20a%20day%20like%20that.%22">crossover</a>. The term crossover describes when the air temperature is higher than humidity. This means that forest fires are more likely. Geneva is at level 3, Vaud is at level two and parts of Valais are level four forest fire risk.</p>
+<h2>Tarmac and Buildings</h2>
+<p>As I walk from village to village and from town to town I see that towns and villages are replacing parks, and properties with grass and trees with concrete buildings and tarmac surfaces. Whilst these are great for cars they are bad for getting rid of water when it rains, and heat during a heatwave. Densification, as the Swiss are doing it, will worsen heatwaves. I was looking at the temperatures yesterday and noticed that Geneva and Nyon were three degrees warmer than neighbouring villages. By trying to cram more people and buildings into smaller areas they are increasing the ability for cities, and villages to trap heat.</p>
+<h2>And Finally</h2>
+<p>Now that heat is common efforts should be made to plant more trees, and increase air flow within buildings to promote the cooling effect of a breeze. If it does get hot then going to a forest makes sense although being wary of fires might be good. We should cut down on car use, and cycle and walk more, to stop filling the atmosphere with crap. I learned how to cope with the heat, even in an attic. The secret, for me, is to always have water and a hat, and if possible a breeze.</p>
+
+
+    <hr>
+
+    </div>
+
+  </body>
+</html>

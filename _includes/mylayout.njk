@@ -1,0 +1,28 @@
+---
+title: Richard's 11ty current contents experiment
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+    {% include "bundle.css" %}
+    </style>
+  </head>
+  <body>
+    <h1>Richard's 11ty Experiment</h1>
+    <h2>{{ title }}</title>
+
+    {{ content | safe }}
+
+    <hr>
+    <ul>
+      {%- for post in collections.all -%}
+        <li><a href="{{ post.url }}">{{ post.url }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </body>
+</html>
