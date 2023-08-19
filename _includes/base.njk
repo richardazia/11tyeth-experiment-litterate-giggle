@@ -6,16 +6,15 @@
   <title>The Splendid Archives</title>
 </head>
 <body>
-    <h1>The Archives</h2>
-  {{ content | safe }}
+  <h1>The Archives</h1>
 
   <hr>
 
   <ul>
-      {%- for post in collections.all -%}
-        <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-      {%- endfor -%}
-    </ul>
+    {%- for post in collections.archive -%}
+      <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+    {%- endfor -%}
+  </ul>
 
 </body>
 </html>
