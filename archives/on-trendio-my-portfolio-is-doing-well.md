@@ -1,0 +1,8 @@
+---
+title: 'On Trendio My Portfolio Is Doing Well'
+date: Mon, 07 May 2007 11:03:34 +0000
+draft: false
+tags: ['current affairs', 'news', 'random', 'tech related', 'trendio', 'website']
+---
+
+Â [![current portfolio](http://www.main-vision.com/richard/blog/wp-content/uploads/2007/05/port.jpg)](http://www.main-vision.com/richard/blog/wp-content/uploads/2007/05/port.jpg "current portfolio") If you love reading the news and seeing what's going on around the world then Trendio is an interesting site for you. I looked at the events that are going to take place and whether Trendio already has them listed. If it does then I decided to buy some stock for those words and as their quantity increases so it means I will get some income. Knowing that the French elections would take place I bought stock in two of the key elements to see by how much they would increase. As you see the increase isn't that bad. I also saw some other events in the news so bought those. Overall it's about understanding the news cycle, what stories have a long life, which ones are going to be short lived and which ones will generate the most hype. If you buy words before a key event when they're low and wait for the event then you can make a lot of trendilions within a short amount of time. It's an interesting distraction and I'd recommend people take a look at it. [Trendio.com](http://www.trendio.com/frontpage.php?language=en&ref_id=30296)

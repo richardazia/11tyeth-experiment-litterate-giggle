@@ -1,0 +1,8 @@
+---
+title: 'I enjoy Google Buzz'
+date: Sun, 28 Feb 2010 12:12:04 +0000
+draft: false
+tags: ['gmail', 'Google Buzz', 'Uncategorized']
+---
+
+Whilst everyone makes fun of Google Buzz and continues living their daily life between google buzz and facebook I have jumped into google buzz with a passion and found it to be nice. It's a social aggregator of content from a number of google services where you can discuss the content with a close network of friends. The strength of this social network is that it is plugged right into google mail. As a result you are guaranteed to log into this site for the whole day. When you have some free time you can go through the threads of conversation and comment on those of interest. Once this is done you can go back to the mail client. As the day progresses so will the number of people commenting on posts. You will see these comments in gmail and answer straight from there.Â  It means you don't have to wait for a notification, click on the link, scroll to the bottom of the page and finally comment. Here you just type the comment and then use the keyboard to progress onto the next thread with a comment. The J and K keys can be used to go backwards and forwards between e-mails in Gmail. They can also jog from one item to another in Google buzz. The result is a very quick, natural way of conversing with the least amount of resistance. The biggest drawback at the moment is the lack of users who find any use for such a site. It's hard enough getting interactions from Facebook so you can wait a few months before Google Buzz reaches critical mass. I will be there in the meantime enjoying conversation with others, who like me are early adopters.

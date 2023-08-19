@@ -1,0 +1,8 @@
+---
+title: 'Too Much Academia Has Disconnected Me From World News'
+date: Sun, 06 May 2007 01:19:52 +0000
+draft: false
+tags: ['current affairs', 'driving licence', 'England', 'future plans', 'news', 'scooter', 'travel', 'university']
+---
+
+Too much academic research and concentrating on dissertations has cut me off from world news to such an extent that apart from tech goings on I had no clue. I hardly followed the French elections, hardly noticed the death of Yeltsin, hardly noticed the regional elections. There are three reasons for this. England is a hard news vacuum with it's slightly islandish mentality (don't yell at me for this view, I've been here a fifth of my life), online news resources, (finding the news I want) and thirdly researching and writing my dissertation. It's been a break from the world and it's coming to an end and I need to resynchronise with the Hard News world once more. It's going to take a few days of reading news once the disso and work experience folders are handed but I'll do it. I also need to decide what to do, whether I stay in London, whether I go travelling and scuba diving to become an underwater cameraman or whether I go back to the beautiful landscapes of Switzerland where my social life is lived through a computer because I am so tired of the motorway to and from Geneva these days. Another option is getting a motorbike license, getting the scooter and driving as far as I feel like on a daily basis and seeing place after place. Time will decide of course.

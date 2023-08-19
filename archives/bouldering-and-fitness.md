@@ -1,0 +1,8 @@
+---
+title: 'Bouldering and Fitness'
+date: 
+draft: true
+tags: ['Uncategorized']
+---
+
+Usually I watch these videos not because I need motivation but rather because I love the feeling that I get from bouldering. Bouldering and fitness are synonymous of each other. The more you practice the stronger and fitter you become and the stronger and fitter you become the more fun the routes that you can try. As a beginner you are stuck on a vertical wall with good hand holds. It is as easy as climbing a ladder. As you practice bouldering your arms, back and fingers grow strong. You progress from hand holds to finger holds and from vertical walls to overhanging walls. Overhanging walls are when you start to have fun. As you can see from the video above overhanging walls are an opportunity to swing from hand hold to hand hold using arm and finger strength and nothing else. You also see that agility and dexterity play a role. The more agile you are the easier the climb. \[caption id="attachment\_3188" align="aligncenter" width="576"\][![climbing and fitness](http://www.main-vision.com/richard/blog/wp-content/uploads/2016/07/P1060291-576x1024.jpg)](http://www.main-vision.com/richard/blog/wp-content/uploads/2016/07/P1060291.jpg) In this image you can clearly see how many muscles are used when using this specific hand hold.\[/caption\] The image above shows how many arm and back muscles are used for a simple hand hold. The beauty of climbing is that you develop the groups of muscles that you need.

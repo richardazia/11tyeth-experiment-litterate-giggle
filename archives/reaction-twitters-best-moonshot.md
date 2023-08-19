@@ -1,0 +1,8 @@
+---
+title: 'Reaction - Twitter''s best moonshot.'
+date: 
+draft: true
+tags: ['Uncategorized']
+---
+
+Every network that has taken the broadcast model and applied it to social media has seen a decline in user engagement. This is true of the two giants, Twitter and Facebook.Â I estimate that a quarter of my contacts on twitter and Facebook were active when these were conversation networks. When I look at social networks I see that twenty people on twitter and twenty people on facebook are still active. That is a big decline in user engagement. It's amusing that investors, marketers and PR professionals, rather than creating sticky networks have made Twitter and Facebook RSS aggregators. They take social networks and neutralise the social aspect. Facebook and twitter have become like newspaper and magazine websites. User conversations are of secondary importance. The focus is on giving marketers the illusion that they are reaching their target audience. The probability that I would join facebook or twitter today if I was not a member is now very low. Phone apps do the same thing without requiring the same investment in time. Conversations are in and of themselves a unique selling point. Neutralise the conversation and the network has no value. Google should have kept Google Reader. It would be popular again. Google+ is the last remaining network where I feel people want to connect which is why I give it a greater portion of my social media allocated time.   http://itwofs.com/beastoftraal/2016/02/08/twitters-best-moonshot-algorithmic-timeline/

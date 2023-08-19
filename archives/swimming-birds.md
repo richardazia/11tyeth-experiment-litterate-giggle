@@ -1,0 +1,8 @@
+---
+title: 'Swimming Birds'
+date: Wed, 14 Mar 2007 09:58:34 +0000
+draft: false
+tags: ['birds', 'Blue Planet', 'Documentary', 'documentary', 'Natural History', 'Natural History Unit', 'Planet Earth']
+---
+
+The Planet Earth and Blue Planet documentaries have some amazing footage and some great sights. One of those greats sights is that which starts with birds sitting in the middle of the ocean because the wind is too weak for them to glide. You see the superpod of dolphins and a cluster of those dolphins leave to hunt. The wind picks up and the birds begin to fly. As they fly we see the dolphins get closer to their quarry. A school of fish. The dolphins bring the fish up to the surface, within diving range of the birds. The birds can go as far down as fifteen meters to get their prey. You see the dolphins who help the birds get their lunch. Without the dolphins, the birds would have little food. The dolphins have left and the tuna arrive. They create an artificial seafloor and the birds keep munching and diving for fish. It's an amazing sight. There are hundreds of fish and hundreds of birds underwater at the same time. It's amusing to see how they flap their wings to get down and grab their prey, then point upwards and float back to the surface. It's only within the past two months that I learned that birds can swim underwater. Ducks do it to get to their algae in ice ponds but only whilst the current is not too strong to drown them. The birds described above do it to get their prey. Yet another species of birds dive bombs and leaves trails of bubbles behind them. Ahhh, the things one must watch for dissertation research.

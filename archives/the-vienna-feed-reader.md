@@ -1,0 +1,8 @@
+---
+title: 'The Vienna feed reader.'
+date: Fri, 14 Dec 2007 13:37:27 +0000
+draft: false
+tags: ['social media', 'travel', 'vienna']
+---
+
+Here I am at 33,000 feet and I've been going through two days worth of RSS feed material whilst offline using [Vienna](http://www.opencommunity.co.uk/vienna2.php). I've been getting a vast amount of data and I'm more inspired to write. I hadn't really thought of downloading feeds until [documentally](http://www.documentally.com) of [Ourmaninside](http://www.ourmaninside.com) told me about the browser. It's a simple browser. You export your feeds from greader as an OPML and import it. All your feeds are added and downloaded to the hard disk for you to skim through at a time most convenient to you. There are a number of features I like. First of all it's layout. It's built like an e-mail client. On the right you have your feeds, at the top right you have the headers and below right you have the articles. It's a quick and easy interface to use. There are three controls you have. Read/undread, flag and whether there are any attachments. These are easy and clear to see as a result of which you can conveniently mark articles that you don't want to read instantly but may want to go through later. Overall its a good tool to have for when you're offline, when it's easy to work your way through the feeds without being bombarded by new ones. It's a great productivity tool and I'd recommend using it. The biggest drawback is that you can't share the articles you find interesting easily therefore it is hard for others to follow the articles that you're finding interesting. If they added this it'd be a great tool.

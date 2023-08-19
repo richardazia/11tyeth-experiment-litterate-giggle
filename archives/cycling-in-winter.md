@@ -1,0 +1,8 @@
+---
+title: 'Cycling in Winter'
+date: Thu, 21 Jan 2016 09:31:52 +0000
+draft: false
+tags: ['cycling', 'observation', 'Switzerland']
+---
+
+After cycling over 1100 kilometres in 2015, I aim to cycle 1200 kilometres in 2016. This goal is an easy one to achieve. It's the 21st of January and I already have 100 kilometres logged. The weather over the last three weeks has been cold and wet. We have had rain almost every day and it recently turned to snow. As there is a lack of good weather there is no choice but to go out in the bad weather. Cycling in these conditions is messy. Your clothes get soaked from the rain and as I cycle in the countryside I come home covered in mud. When I get home I change into dry clothes and I recover quickly. Rain is easy to deal with once you're ready to feel wet and dress for the cold. What is more challenging is cycling on slick tires on snow. Some of the roads I cycle on are salted and cleared but as I also use agricultural roads they are covered in snow. Safety takes focus and concentration. The rear wheel skids if you apply too much force to the pedal and the bike can skew if you are not careful. Cycling in such conditions is not ideal. It demands resistance to the cold, stamina to continue making the effort and determination to set an achievable goal. I will continue towards 200 kilometres by the end of February. Cycling consistently now will make summer all the more pleasant and rewarding.

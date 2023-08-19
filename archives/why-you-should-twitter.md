@@ -1,0 +1,8 @@
+---
+title: 'Why You Should Use Twitter'
+date: Sat, 17 Mar 2007 22:35:30 +0000
+draft: false
+tags: ['early days', 'random', 'sms', 'social media', 'social media', 'twitter', 'twitter', 'university']
+---
+
+Twitter is a short message that are only 140 characters long. It can be used in three ways. The first is by instant messenger, the second is by text messaging to your mobile phone and the third is via the web interface. It's referred to as microblogging, although not by me. I see it as being something more powerful. The BBC, Google, and other companies have already used it for showing people what the latest news is. Of course, with such a medium you have to be careful not to send too many messages or people will give up. Where it would come into its element is traffic info, radio schedules, or even event notifications. Imagine that you knew about this before rag week and that many of your friends were members. You could tell them "just finished ragging, on my way back to uni" or "only 20 tickets left for an event". In other words, you can let people know what an organisation is doing quite easily. Another way to enhance this is when you've got quite a lot of friends and they're all members. "Hey, just handed in my assignment, going to sit in the grass outside halls, welcome to join" and many people who might have been bored now know where to find you. Of course, you're paying the price of SMS (text messaging) if you're away from the computer but it's at a local tariff to the best of my understanding. It's an interesting development, similar to the status bar in many of the current messengers and on Facebook.

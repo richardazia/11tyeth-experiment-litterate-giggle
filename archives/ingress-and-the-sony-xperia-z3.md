@@ -1,0 +1,8 @@
+---
+title: 'Ingress and the Sony Xperia Z3'
+date: Sun, 14 Dec 2014 17:02:25 +0000
+draft: false
+tags: ['ingress', 'ingress', 'mobile', 'Sony', 'tech related', 'Uncategorized', 'xperia', 'z3']
+---
+
+Ingress is a game that requires a data connection, GPS data and the screen to be on. As a result of this battery consumption is high. Earlier today I took the [Sony Xperia Z3](http://www.amazon.com/gp/product/B00NUASZMC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NUASZMC&linkCode=as2&tag=mainvisio-20&linkId=GK4DKWMBQE5QNZPC "Sony Xperia Z3") out in the rain and played for two solid hours non stop walking from portal to portal and the battery was at 50 percent. This is excellent compared to other devices. [![Screenshot_2014-12-14-16-25-59](http://www.main-vision.com/richard/blog/wp-content/uploads/2014/12/Screenshot_2014-12-14-16-25-59-168x300.png)](http://www.main-vision.com/richard/blog/wp-content/uploads/2014/12/Screenshot_2014-12-14-16-25-59.png) [![Screenshot_2014-12-13-20-16-29](http://www.main-vision.com/richard/blog/wp-content/uploads/2014/12/Screenshot_2014-12-13-20-16-29-168x300.png)](http://www.main-vision.com/richard/blog/wp-content/uploads/2014/12/Screenshot_2014-12-13-20-16-29.png)   The phone is also waterproof to a depth of one meter therefore the rain we had this afternoon was no hindrance to game play. Every so often I had to wipe the screen as the touch screen stopped functioning as well as it should due to the signals it was getting from the rain.

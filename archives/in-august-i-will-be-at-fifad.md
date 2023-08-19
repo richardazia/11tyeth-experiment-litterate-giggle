@@ -1,0 +1,8 @@
+---
+title: 'In August I will be at FIFAD'
+date: Wed, 13 Jul 2016 07:00:31 +0000
+draft: false
+tags: ['FIFAD', 'Rock climbing', 'Swiss walks', 'Switzerland', 'Uncategorized', 'Via Ferrata']
+---
+
+In August of this year I will be at [FIFAD](http://www.fifad.ch/) as a volontaire. [FIFAD](http://www.fifad.ch/) stands for Festival International du Film Alpin Des Diablerets. It's the international Alpine Film Festival of the Diablerets. I want to participate at this event for three main reasons. The first of these is that I have a passion for the documentary film genre and adventure films. I really enjoyed going to [Montagne en ScÃ¨ne](http://www.montagne-en-scene.com/) a few weeks ago and I expect to enjoy having the freedom to watch certain of the films at this event. The second reason I want to go as a helper is that every time I have applied to help at an event I have got something out of it. I have built my confidence. I have met interesting people and I have found new and interesting ideas. In this case I hope to view a number of the films. The third reason is that I will have an opportunity to spend a week in the mountains once again. I have frequently been to Diablerets for hikes and just once to enjoy a via ferrata. This time I will get to stay for a few extra days and learn to appreciate the town differently. I will have my 360 camera and via ferrata gear with me. Time to ride a tyrolean in 360 right? I hope it won't rain too heavily. People told me they got wet last time they went under the waterfall. When I watch an interesting film or hear someone talk about an interesting topic I will try to take notes and write related blog posts. It's good to share the knowledge and passion with you.

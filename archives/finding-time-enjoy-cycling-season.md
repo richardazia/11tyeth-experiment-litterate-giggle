@@ -1,0 +1,8 @@
+---
+title: 'Finding the Time to Enjoy the Cycling Season'
+date: Thu, 30 Jun 2016 15:46:46 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+Finding the time to enjoy the Cycling season this spring was complicated. Between the rain and bad weather it was hard to find two days in a row with good weather. As a consequence of this I have not been very active. I set myself the goal of cycling 50 kilometres per week which is conservative and I have been unable to reach that goal. During this time I am really happy about one thing. I started climbing every Thursday with a Glocals group from Lausanne. We go to Rocspot, an indoor climbing wall where you can practice routes from 4a up to 9a or more. It has indoor and exterior walls. This place is perfect for rainy days and training. Go when the weather is nice. You have the freedom to choose your routes. I am really happy with one achievement during this day's ride. I reached 57.2 km/h cycling down from La Rippe to Crassier. For some reason I had the power to reach that speed. That isn't bad for a mountain bike with slick tires. \[gallery columns="2" size="medium" ids="3019,3020"\] A good reason to cycle in the countryside is of course to see nature change from season to season, to see the crops from their infancy to their harvest. Today I saw two combine harvesters. One was collecting crops and the other was travelling between fields. Two days ago when I was cycling I passed by the PalÃ©o festival fields and saw thatÂ event tents are going up. As a last thought it is that time of the year when you cycle hard and when you stop you feel really warm. I love that feeling. I hope to cycle a lot more in coming weeks and months.

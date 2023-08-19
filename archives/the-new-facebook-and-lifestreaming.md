@@ -1,0 +1,8 @@
+---
+title: 'The new facebook  and lifestreaming'
+date: Sun, 07 Sep 2008 07:12:14 +0000
+draft: false
+tags: ['facebook', 'lifestream', 'lifestreaming', 'social media']
+---
+
+Lifestreaming is not something the mainstream understand yet. they're still getting to grips with the idea of lost anonimity on a place like facebook. This is visible through the creation of the facebook group to cry about the new facebook. I'm an early adopter and I love new ways of connecting with people and that's why I'm sitting in an appartment in Paris after spending a fun night with 20 friends from seesmic (or so). They're all friends I met through social media. In particular I met them through Seesmic. Imagine posting a video that anyone and everyone can see. I like to describe it as video instant messaging. Record a video of yourself talking about something and wait for your friends to answer in video form There area number of features on the new facebook that are similar to those of jaiku. These are rss integration, status updates (as in twitter) and commenting. They're all things that I've been playing with for months now. It's part of my daily life. I understand and embrace this change. It will be interesting to see how long it takes for those I met in the physical world to start tweeting and seesmicing or using jaiku. Will it be a year or two? They did take a year to finally get to facebook after all.

@@ -1,0 +1,8 @@
+---
+title: 'It''s A Nice Upgrade'
+date: Thu, 14 Jun 2007 17:42:14 +0000
+draft: false
+tags: ['Apple', 'laptop', 'Post-university life', 'tech related', 'upgrade', 'work']
+---
+
+Today I passed an order through the online apple store and within a number of weeks I should get one of the top of the range machines and I'm really looking forward to it. The Ram isn't maxed out but that's because I'm going to upgrade that from an other distributor from whom I can get it cheaper. I'm also getting final cut studio 2 and that should be a great convenience for learning how to use all the software I need for professional purposes. I'm impatient for it now but it's going to take time to come so I have to be patient... need to find something to distract me for a period. I've had an editing system at home which started with Adobe premiere 4.5 and the miro dc30+ and a hi8 camera, upgraded to a PC7 camera for a trip to Tanzania in 2000. That's when I was editing on the DHR 1000 editing deck where I learned a great deal about tape to tape editing. From there I upgraded to Premiere 5.0, 5.1 and on before giving up on Windows editing. In 2003-4 I upgraded to the Ibook with FCP which worked far better than anticipated. Now I'm waiting for my most recent editing system. Over the years I've seen a great change in equipment and the price. As I was at school working on Hi8 it took several years before I was able to edit the footage I had shot. Editing systems could cost thirty thousand swiss francs per BetaSP decks. Now it's gone down in price and people get a nice home setup. I'm looking forward to it.

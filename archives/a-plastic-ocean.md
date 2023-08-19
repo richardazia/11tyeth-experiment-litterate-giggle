@@ -1,0 +1,28 @@
+---
+title: 'A Plastic Ocean - Recycle more'
+date: Thu, 01 Jun 2017 07:44:18 +0000
+draft: false
+tags: ['environmental', 'environmentalism', 'environmentalism', 'plastic', 'recycling', 'Video', 'youtube']
+---
+
+A Plastic Ocean is an excellent documentary detailing the problems and threats caused by plastics entering water systems and eventually reaching the seas and oceans. This documentary starts with a team trying to film whales. When they finally do find the whales off the coast of Sri Lanka they notice that there is a film of oil and plastic build up miles from the shore. They say that this bit of ocean should be clean as the beaches had been unused for years. They suspect that the plastic had been freed after heavy rains flushed them out to sea. I went to the Graduate institute to [watch this film last night](https://www.facebook.com/events/549686175418855/?acontext=%7B%22ref%22%3A%2244%22%2C%22unit_ref%22%3A%22related_events%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22permalink%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22RHC%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%7D) and the crowd was already well informed. When one speaker asked, "Did you know that the Plastic Ocean problem was this serious" at least half of the room, if not more raised their hand. When people were asked about the zero waste movement at least a third of people raised their hand. The auditorium was filled to capacity.
+
+### Plastic and snorkeling
+
+When I was snorkeling in Spain a few  weeks ago I was looking for fish and I saw a few small fish. In the past I had been scuba diving in these waters and surfaced to be surrounded by jellyfish. If you're stung by a jelly fish you don't need to use urine. Olive oil and seawater will calm the inflamation. I thought that I saw a jellyfish but as I swam closer I saw that it was a transparent plastic bag floating near the surface. I grabbed the bag and I placed it in my semi-drysuit sleeve and eventually swam back to come out of the water. As I walked back from the activity I picked up a second plastic bag and threw them away. If these bags were left in the Mediterranean then sea turtles and other animals might eat them.
+
+### Environmental impact
+
+When plastics reach the ocean seventy percent sinks to the bottom of the sea and can remain there for centuries. What does not sink is degraded by the sun but it is broken up, rather than broken down. What this means is that you go from plastic sheets to plastic pellets and these plastic pellets outnumber krill and plankton by a ratio of two to one. This means that sea birds, fish and other animals higher up the food chain ingest plastic and it accumulates. Seabirds and whales ingest so much plastic that it fills their stomachs and they eventually die of starvation.
+
+### Everyday Recycling
+
+It is at this moment that I am so happy to live in a canton where you can recycle PET in one container and all other plastics in another. This means that almost all of the plastic I use on a daily basis is recycled. It can be re-used for bags, car doors and more permanent uses.   \[caption id="attachment\_3531" align="aligncenter" width="300"\][![](https://www.main-vision.com/richard/blog/wp-content/uploads/2017/06/DSC_0415-300x225.jpg)](https://www.main-vision.com/richard/blog/wp-content/uploads/2017/06/DSC_0415.jpg) In Switzerland people sort materials at home and put them in appropriate containers\[/caption\] \[caption id="attachment\_3532" align="aligncenter" width="300"\][![](https://www.main-vision.com/richard/blog/wp-content/uploads/2017/06/IMG_1231-300x225.jpg)](https://www.main-vision.com/richard/blog/wp-content/uploads/2017/06/IMG_1231.jpg) If I remember correctly PET has been recycled for over two and a half decades.\[/caption\] Recycling is a simple and intuitive habit to have. My generation learned to recycle as children and we have kept up this habit for decades. It is so normal that we feel uneasy at festivals and events where we don't have bins for PET, Aluminium and other products. In some cases I keep aluminium or PET bottles on me until I find a place where I can recycle them. I enjoy that at Swiss train stations you can now recycle paper, PET, Aluminium and other rubbish. The advantage of recycling loops is that we use the primary material more than once. It means that we don't need to waste energy and money on extracting oil and other primary materials. We simply recycle the materials. The concept of closed circuits was discussed.
+
+### An Environmentally Friendly Hike
+
+If this post has inspired you to do more for the environment there is a [wehike ](https://www.wehike.ch/wehike/chaux-ronde-and-le-sepey/38/)event organised by the [Summit Foundation](https://www.summit-foundation.org/en/) .
+
+> This is a hike inaugurating the partnership between WeHike and Summit Foundation, a Swiss ecological non-profit. The Foundation’s mission is to reduce the environmental impact of human activities -leisure activities in particular- in high-traffic locations like ski areas, by raising awareness and proposing concrete solutions. To this end, WeHike supports the Summit Foundation’s objectives by promoting and organising environmentally-aware hikes and waste collection & recycling operations in high mountains.
+
+This is a two day hike near Les Diablerets. A plastic Ocean is available to watch on Netflix and from other sources. It is worth watching as it will affect how you use plastic in future.

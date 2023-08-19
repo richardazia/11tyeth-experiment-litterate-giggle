@@ -1,0 +1,8 @@
+---
+title: 'Two via ferrata later in Leysin'
+date: Sun, 27 May 2012 17:48:20 +0000
+draft: false
+tags: ['lifestream', 'Swiss walks', 'Via Ferrata']
+---
+
+Running down a ski slope in hiking shoes is fun. You're jumping, bounding and landing back down. The snow is slush and you sink, you rise up and fall on the second thought. Continue for a few hundred meters and you get to the bottom. You can also sledge down and get soaked without worrying about it. The truth is that was the easiest part. You still have a 30 minute walk straight up a hill to the base of the cliff. From here you walk across and to the right until the beginning of the via ferrata. As a distraction you may spot the occasional marmot at this time of year. The via ferrata itself starts vertically and then goes by two chimneys before flattening out. By the time you're to the top the vista is nice. \[flickr-gallery mode="photoset" photoset="72157629918614486"\] If you're not tired by the first via ferrata there is a second one lower down the valley. This is an adventure one with quite a few bits of overhanging rocks a dozen or so meters off the ground with a short patch over two bridges and through the trees. It is divided into three sections. The first one is the hardest for the arms and particularly for the hands. The second part is quite easy but if you are slightly shorter be methodical about your actions. You might get stuck. For the third part you have two ladders going out from the rock and outwards. There is a squeeze between the bag on your back and the ladder. The way down is more comfortable.

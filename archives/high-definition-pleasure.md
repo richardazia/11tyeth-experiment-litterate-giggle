@@ -1,0 +1,8 @@
+---
+title: 'High Definition Pleasure'
+date: Wed, 21 Jan 2009 22:23:40 +0000
+draft: false
+tags: ['HD', 'High definition', 'random', 'Video']
+---
+
+I love high definition because it reminds me of those massive paintings you see in art galleries. You know the ones. It's those that have things happening in different parts. Look to the top right and you see one set of people, look at the centre of the image and you notice something slightly different. Look to the right of there and yet another story is told. That's because high definition is a large canvas where everyone that appears in the shot tells a story. Look at that shot. You see Obama in the foreground and you see the faces behind. You see the family, you see the faces of those that are having a good time, those that are there because they have to be and more. It's also about eavesdropping in the visual sense of the word. You look at the action in the foreground but you can also look at the book shelf, you can see which titles are present. You can see the marks on the walls. You can see that person sitting, and from the facial features see whether they are tired or full of energy. I just love high definition. I've been watching high definition content and I must admit that documentary is the type of content that may be the most fascinating. You see reconstructions of historical battles, background actions and it's just a full image. If it was audio it would be high fidelity. It's just complete. It doesn't require fast cutting, it doesn't require close ups. What it does require is a process of thinking of how to provide a frame, an image, a canvas that's interesting to look at. It's getting closer to photography in a sense.

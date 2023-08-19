@@ -1,0 +1,8 @@
+---
+title: 'thoughts typed on a mobile phone'
+date: Wed, 27 Dec 2006 15:28:46 +0000
+draft: false
+tags: ['Holidays', 'mobile', 'thoughts', 'travel']
+---
+
+There are times in life when a little peace and quiet are the perfect thing. When you know that the people who are getting drunk are there for one night then the motivation is lacking. Add to this a language and sound barrier and what you get is an unmotivated individual. It's not that I'm being anti-social. What's the point of these intellectual and language barriers being formed. I'm glad that I spent a few evenings working in the uni library so that I could work on becoming integrated into a culture and ethnic group I would otherwise have less to do with. One of the weaknesses in this global society is that the individuals are not open enough to learn the languages and break out of the shackles of their father and mother culture. These idiots should adapt to inherit a new culture. One where it does not matter what social background you're from, what country or ethnic background. Everyone should be outward-looking. This is especially true of those living abroad. What is the point of coming to Switzerland simply to be stuck with the same people and language as if you were in the nation of origin? Forget those who travel without adapting because they are a waste of time and energy. Those are the views I hold whilst listening to some music in a bar/nightclub. goodnight

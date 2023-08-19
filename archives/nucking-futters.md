@@ -1,0 +1,8 @@
+---
+title: 'Nucking Futters'
+date: Mon, 18 Jun 2007 12:22:14 +0000
+draft: false
+tags: ['facebook', 'internet addiction', 'Post-university life', 'social media', 'tech related']
+---
+
+Internet addiction and e-mail addiction should have gone the way of the polaroid years ago. Why are there several news sources claiming that people are addicted to e-mail? That's like claiming that people are addicted to toilet paper or using a pen when writing on paper. It's a question of practicality and it's already an out of date claim. Who still writes e-mails when you can send a pm, write on someone's wall or send out bulletins. Most of those reading this post will understand what I mean. When's the last time you sent an e-mail? Hotmail has been replaced by Facebook and myspace. Why would you use old fashioned technology like e-mail when Facebook and myspace are more practical. There's no spam, there's no spending twenty minutes looking for the names and addresses. It's a pointless article that demonstrates a lack of understanding of the new online communication channels. There are so many to be used, whether for photo, audio, video, or other. As an afterthought, it's a bunch of statisticians having fun with numbers. Why don't they do polls like the one I did, why don't they give some theory behind the article? I haven't even read the article, skimming was enough for my prejudice for such an article to form. Get the early adopters to write and explain the relevance of such statements, not the computer illiterate. I want the skills I have learned through my media tech and society module to be used. "Science sans conscience n'est que ruine de l'ame" or in this context, "stats without analysis are no more than a waste of time". ;)

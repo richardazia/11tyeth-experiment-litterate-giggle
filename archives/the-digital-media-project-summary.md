@@ -1,0 +1,8 @@
+---
+title: 'The Digital Media Project - Summary'
+date: Fri, 25 Jan 2008 16:48:10 +0000
+draft: false
+tags: ['ChilloutÂ®', 'Digital Media Project', 'iDRM', 'London', 'tech related']
+---
+
+Two nights ago I got an invite from a friend at Kendra inviting me to come to the Friday session of [this event.](http://www.dmpf.org/project/ga17/index.html) The event was held at Queen Mary University in London. The first session of the morning was to tell us more about the Digital Media project. The talk was given by [Leonardo Chiariglione](http://www.chiariglione.org/). What I found interesting about this project and this movement is that it's looking at the need for DRM as a good thing. It believes that there should be DRM but that media should be free to operate from one platform to another. At the moment we can have itunes, realplayer real and other devices and it's confusing, even for those who live and breath the media. They want to create a uniform standard that can be played from all platforms on all devices whilst at the same time protecting the rights both of the user and of the media active. He spoke about a standard of theirs which is now at version 3.1. Version 3 was agreed 3 months ago and the meeting was to update the current one. The document is over 600 pages long... I'm not going to read it. At the same time [iDRM](http://www.dmin.it/specifiche/summary.htm) was mentioned but that's part of another post. [ChilloutÂ®](http://chillout.dmpf.org/wordpress/index.php) was also demonstrated.

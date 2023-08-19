@@ -1,0 +1,8 @@
+---
+title: 'Half Way Through To This Year''s Cycling Goal.'
+date: Wed, 01 Jun 2016 14:37:20 +0000
+draft: false
+tags: ['cameras', 'cycling', 'cycling']
+---
+
+So far this year I have been cycling forÂ 680 km inÂ 33hrs with a height gain of 6800 meters. In this time I have used my [narrative clip 2](http://getnarrative.com/)Â device to document the ride with a picture every 10-30 seconds as I want to focus on riding rather than other things. I like to have as high a moving time as possible so I usually stop once I get back to my starting point. By cycling I see the landscape at a slower, more interesting speed. I see the roads, I smell the vegetation, I feel the heat and I feel the cold. I also discover small paths that I would not take in a car or on a scooter. In practicing this sport I get to know the landscape. I also get to see seasonal changes. This year I have cycled in the rain, in the snow, in the wind and on days like today. Today it was sunny and there was no wind to fight against. It made the ride more pleasant. The technology I took on today's ride was my narrative clip 2 to take pictures of the bike ride, my [Crosscall Odyssey+](http://crosscall.com/en/odyssey-plus/) phone, the [Cateye Evo+](http://www.cateye.com/intl/products/detail/CC-GL51/) and finally the [Suunto Ambit 3](http://www.suunto.com/sports-watch-collections/Suunto-Connected-Family-with-Ambit3/). I also took the [Ricoh Theta S](https://theta360.com/en/about/theta/s.html) but never stopped to take pictures. For future rides I should fix it to the handle bars. I could bring you with me on my next bike ride. Of course I would keep just the interesting bits of the ride. I can throw away the rest.

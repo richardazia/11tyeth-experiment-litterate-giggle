@@ -1,0 +1,8 @@
+---
+title: 'NewsRack'
+date: Sat, 12 Feb 2011 12:47:33 +0000
+draft: false
+tags: ['google', 'social media']
+---
+
+For a while I have been looking for an external feedreader for reading the items collecting and stagnating in google reader. Yesterday I came across [Newsrack](http://www.omz-software.de/newsstand/index.html) and what I like is that it syncs instantly with the online version. As a result I can read the feeds on the macbook air when I am at home and out and about or I can read the feeds in browser when I am at work. Look at the sync tab in the settings and you can select to sync starred, shared and shared by friends articles according to All/week/month/3 months. As a result you control how many items come in. You can select how quickly read articles are deleted. On the laptop I have set this to immediately after reading. As long as I have the articles online I'm happy. Sharing is to all the usual places, e-mail, twitter, instapaper, readitlater, delicious and of course google reader. In this case memorise the shortcut commands and you can do this without bothering with the mouse. Scrolling through articles is easy. Left and right goes from the feed view to the article and vice versa. The down key lets you go through the articles, click the right arrow and you can read the article. This allows for a rapid feedreading process. The weakness I have has to do with the way keywords are dealt with. I would like an option to hide them from the RSS feed view. I just want to see the actual feeds, not all the sub themes. I hope they give us the option of choice in future versions. I have only used the application for a few hours but so far I am happy with it. It's not free but it's only a tiny bit more expensive than a coke in Geneva's old town.

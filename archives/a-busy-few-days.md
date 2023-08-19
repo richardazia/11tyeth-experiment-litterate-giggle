@@ -1,0 +1,8 @@
+---
+title: 'A busy few days'
+date: Thu, 04 Dec 2008 21:53:16 +0000
+draft: false
+tags: ['leweb', 'Nanowrimo', 'Nanowrimo', 'paris', 'seesmic', 'seesmic', 'social media', 'tgio', 'travel']
+---
+
+Tomorrow I will be in Lausanne once more, this time to meet the people from Bloggy Friday. It's Switzerland's bloggers and social media types coming together for a chat and the traditional fondue (or so it's been for the past few weeks) and an opportunity to hear about new projects. Last month it resulted in me hearing about minsh and going to a demonstration of what the website will provide for users of twitter. i'm not going into details just yet but when it comes out some people might find it quite interesting. The second event is the TGIO (Thank goodness it's over) party for the National Novel Writer's month and the Swiss writers that participated. it's a sleepover right next door to where I live and that will be interesting. The main event comin up is of course LeWeb which I will be attending this year through a great piece of luck. I'm looking forward to the presentations and meeting many new people. It should be an interesting to pick up ideas for how to develop and re-wrte some parts of the book I'm currently working on. The culmination of the week of course will be on Friday when 30 of the French Seesmic community will meet for a dinner. In all it's going to be a very social media week and it's refreshing for it to take place in a place like Paris. I will take some video and photographs and blog what I think is of interest. For now it's a restful evening whilst looking forward to the fun week ahead.

@@ -1,0 +1,8 @@
+---
+title: 'I''ve been joost(ed)'
+date: Thu, 12 Apr 2007 16:55:40 +0000
+draft: false
+tags: ['bandwidth', 'mobile web', 'tech related', 'web-enabled devices']
+---
+
+Twitter informed me that a friend got his Joost invite whilst I was in the library. I was looking for some books that had been recommended to me by someone I had interviewed for my dissertation so I did not pay much attention to this at the time. When I got home I saw that I too had not escaped the invite. Great, time to download and try it out, I thought, I was wrong.  I installed it and went to run it, twittered that I had launched it for the first time, wrong, wrong processor- All that anticipation indifference I was left indifferent. Why create a product that a lot of users can't use? Joost came into being too late and too narrow. Why would people want a full-screen application for the live streaming of video content when bandwidth in some of the luckier nations, Sweden and Japan, for example, offer 100 Megabits per second. I love downloading podcasts that I can watch anytime, anywhere, anyplace, and on any device. I love the high mobility aspect of new technology. I love that I can check my e-mail from my mobile phone, chat with a community via text and that I can visit Facebook and see what events are on today without ever touching a computer. That's what technology is about for me. Same for all those at Jaiku, Nokia, Justin TV, and others to name a few. People are tired of laptops and desktops, they want portable web-enabled devices. I do too.

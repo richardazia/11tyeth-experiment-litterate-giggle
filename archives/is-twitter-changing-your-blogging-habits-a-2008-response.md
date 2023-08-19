@@ -1,0 +1,8 @@
+---
+title: 'is twitter changing your blogging habits? - A 2008 response'
+date: Mon, 04 May 2015 10:58:23 +0000
+draft: false
+tags: ['conversation', 'overheard', 'social media', 'social media living room', 'social networking', 'twitter', 'twitter']
+---
+
+Yes and no. Twitter is replacing instant messaging and chatrooms. Itâ€™s an open method by which for people to communicate instantly with others. Itâ€™s also about the overheard conversation although that term has disappeared. What does â€œoverheardâ€ mean? Well simply that whenever two people discuss a topic hundreds of people are following this conversation and when they decide they have an opinion they can cut in. They do have that 140 character limit though, so they need to get to the point is efficiently as possible. When that isnâ€™t possible then they can do the next best thing. Write a comment in a blog post or even write a blog entry of their own where the conversation that took place on twitter is synthesised into a more digestible chunk of information. As a result twitter is changing peopleâ€™s blogging habits but the question is why people want to chat publicly rather than in an enclosed space. Today people like transparency. Disclaimer: This is a post from the 28th of Octobre 2008.Â [![An unpublished post](http://www.main-vision.com/richard/blog/wp-content/uploads/2008/10/Screen-Shot-2015-05-04-at-12.53.10.png)](http://www.main-vision.com/richard/blog/wp-content/uploads/2008/10/Screen-Shot-2015-05-04-at-12.53.10.png)

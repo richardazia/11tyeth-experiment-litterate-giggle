@@ -1,0 +1,8 @@
+---
+title: 'Digital television in the UK'
+date: Sun, 18 Mar 2007 17:39:51 +0000
+draft: false
+tags: ['consumer habits', 'digital', 'digital television', 'narrowcasting', 'random', 'television', 'university']
+---
+
+_1.1 The three months to the end of December 2006 (Q4) saw over 1,000,000 net household conversions to digital television (DTV) in the UK, following on from 800,000 additions in the previous Q3. Growth was driven by another strong quarter for digital terrestrial television (DTT), with total sales of DTT equipment reaching 2.4 million._ _1.2 The digital cable and satellite platforms also added over 300,000 households between them during the quarter. This means that **77.2% of households now receive digital television services on their primary set, up 3.9 percentage points from the previous quarter.**_ _1.3 With a further 1.4% of households subscribing to analogue cable, **the total number of homes receiving multi-channel television at the end of Q4 2006 stood at 78.6%.**_ [Source](http://www.ofcom.org.uk/research/tv/reports/dtv/dtu_2006_q4/ "The Ofcom report") What this means is that narrowcasting is no longer within the grasp of early adopters but slowly getting into the hands of the everyday public. As more people have more choice so their viewing habits and choices will be different. At the same time television is getting a lot of competition from online resources, especially for programs that are aired in territory months earlier than in others.

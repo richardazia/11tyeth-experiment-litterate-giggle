@@ -1,0 +1,25 @@
+---
+title: 'Reasons for settlement'
+date: Wed, 15 Apr 2020 11:40:13 +0000
+draft: false
+---
+
+ If you have studied history you will find out that there are certain factors involved in making the decision to colonise an area rather than an other and whether or not to remain nomadic.
+
+    As you may or may not know Nyon is a very old city founded by the Celts and later taken over by the Romans when Switzerland was Julia Equestris. It is suspected to have been built around forty BC. The city which you know as Nyon is around 2048 years old.
+
+    Now going back to Geography we may start studying why was this area was colonised rather than others. Walking in Nyon you will notice that there is the lake front where there are some shops and restaurants. There are also some streets leading up to the Castle. If you have walked on the terrace here you will have noticed that there is a panoramic view of the area. This enables you to visualize the geography of the area. This is important from a strategic point of view since defense was important to previous civilizations due to such threats as the Barbarians and others.
+
+    Now that we have discussed the reason for it being on a hill we must look at another very important factor to some of the more primitive situations such as the Romans. They used to build aqueducts to carry water to their cities and one place where it is clearly visible is Rome. Water was so important because back in the days when there was no running water people would have to trek or walk long distances simply to get enough to quench their thirst as is the case in the Sahel.  A daily supply of water close by was essential to support a city and if you are interested in seeing where water was gathered by the Romans go two or three hundred meters down from the castle and turn left where the wall ends and there are the gardens which start here where you see a fountain dug into the hill. This fountain dates back to Roman times and was where people did there washing as well as get water for there homes.
+
+    Something interesting which my uncle taught me is that when the Roman legions used to walk from places such as Geneva which was a settlement they marched thirty kilometers or more within a day and as they got tired from carrying 40 kilos of equipment such as swords etc. they needed to rest for the night. As more troops started to arrive here the settlement grew therefore increasing the amount of trade which in turn meant that local people could come here to get something they may need. This build up in trade means that there is a need for road networks to expand.
+
+    In Rome there are a few main roads which led out of it from the time of the Romans such as the Via Appia (the Appian Way) as well as some others enabling trade and communications between various parts of the empire.
+
+    Settlements also develop around areas where major communications cross each other such as Geneva where there are people coming from two main directions the Alps including France and from along the motorway which travels across Switzerland coming from the rest of Europe passing through Geneva. A town has developed because of this traffic but also because at this particular part of the river is a ford. A ford is an area where a river either becomes shallow enough to cross without a bridge or which has a slow enough current as to make it safe to cross. This is why oxford may have it's name (Ox-Ford, in other words where oxen crossed?).
+
+    Physical factors such as those found in an alpine valley affecting  the North facing slope is normally left unpopulated because of the way in which light travels in straight lines as you will learn in Physics. This means that the slopes are much colder therefore being unwelcoming to humans who would prefer to remain in the sun where it is more comfortable. This is visible in Ski resorts such as Tignes in the French Alps.
+
+    Soil quality is another factor which may affect farming because nomadic tribes stay semi-nomadic such as in the Amazon rainforest because the soil is not fertile enough to support life for more than three years therefore the tribes keep on the move so as to leave enough resources for it to regenerate and so move on to another area. In a place such as Switzerland which has been formed by glaciations the soil is very rich therefore allowing for a few years' worth of harvest.
+
+    Now that I've mentioned mostly physical factors there are other factors which also have consequences such as whether there is any disease. An example of a place where there are not many people are along the Zaire River (I need to get confirmation about this). Here there are diseases such as Tse Tse flies which cause sleeping sickness, malaria and many other diseases as well among humans as among the cattle. This affects people's lives in that their way of life depends on cattle but because of the animals dying there is no advantage to staying here so they do not settle here.

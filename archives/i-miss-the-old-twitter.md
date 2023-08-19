@@ -1,0 +1,8 @@
+---
+title: 'I miss the old twitter.'
+date: Fri, 22 Aug 2008 13:19:43 +0000
+draft: false
+tags: ['twitter', 'twitter']
+---
+
+Over a year ago I started using twitter and it had great promise. The public timeline was so slow that I would refresh it and there would be no new comment for minutes at a time. The service would auto refresh from the website and the community was small. The @ feature didn't exist and no one I knew was using it. Over a period of weeks and months more and more people started to use it and following was all web based without any api. Eventually people would begin using the @ symbol to direct comments to specific people and with the increase in traffic so the auto refresh broke, and was later removed. Later still Api support was finally offered. We would get thousands of SMS a month and the term twitter bukake was coined. It was used to describe the act of suddenly getting twenty to a hundred SMS at a time as you emerged from the tube. After a while in Europe this was limited to 250 tweets a week. Then it died. No more tweets would get to our phones and twitter would no longer have the appeal that it had at first. It went from being one of the most interesting and innovative and interesting ways to communicate between people in various countries to something that everyone would imitate and equal. That's why I'm so disappointed that there are no SMS, that's why I think that the twitter managment have really missed a great opportunity. I'm glossing over the months of failwhales and server crashes. I miss the old twitter.

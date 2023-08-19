@@ -1,0 +1,13 @@
+---
+title: 'IFSC Climbing World Cup Villars 2016'
+date: Thu, 14 Jul 2016 15:57:15 +0000
+draft: false
+tags: ['climbing', 'climbing competition', 'observation', 'Rock climbing', 'summer', 'Switzerland', 'switzerland']
+---
+
+I will be present at the [IFSC Climbing World Cup Villars](http://www.ifsc-climbing.org/) tomorrow. For me climbing has always been an active rather than a passive sport. It has been a sport where the landscape is nice and the crowds are small. Tomorrow will be the first time that I go and watch as other people climb. It's not that I don't watch people climb. Between climbing gyms, bouldering gyms, via ferrata and Rock climbing it is a sport that I have explored in depth. What I haven't explored in depth is climbing with an audience, climbing as an event, climbing as a competition.
+
+Program
+-------
+
+Friday 15th July 9.00 - 16.00 Men & Womenâ€™s lead qualifications 17.00 - 19.00 Men & Womenâ€™s speed qualifications 21.00 Speed Finals Women & Men (LIVE) 22.00 Award Ceremony (LIVE) Saturday 16th July 10.00 - 12.30 Lead Semi-Finals Men & Women (LIVE) 20.00 Men lead Finals (LIVE) 21.00 Women lead Finals (LIVE) 22.00 Award Ceremony (LIVE) Instinct tells me that lead climbing should be the more interesting discipline as it relates directly to the climbing I do. Speed climbing could be fun and interesting to watch but it has less practical applications in ordinary climbing life. If I want to be lazy then I could go up on Saturday and stop asking questions. On Saturday from 1300 to 1600Â there is the [concours populaire](https://www.facebook.com/events/1202263526474162/permalink/1232580300109151/), That's when amateurs canÂ try their hand at speed climbing. \[caption id="attachment\_3131" align="aligncenter" width="660"\][![Program of the event](http://www.main-vision.com/richard/blog/wp-content/uploads/2016/07/13613568_1292008807483461_2607470429189968694_o-736x1024.jpg)](http://www.main-vision.com/richard/blog/wp-content/uploads/2016/07/13613568_1292008807483461_2607470429189968694_o.jpg) Program of the event\[/caption\] Villars Sur Ollon is a place that I have visited a number of times but for once we should be welcomed by summer rather than winter temperatures. It will also be for climbing rather than skiing, hiking or aprÃ¨s ski. I will take pictures and let you know what the experience is like. It's nice after organising satellite distribution for sporting events finally to go on location. We'll see how energetic the crowd is.

@@ -1,0 +1,28 @@
+---
+title: 'The Psychology of Via Ferrata.'
+date: Mon, 07 Sep 2015 14:32:45 +0000
+draft: false
+tags: ['Via Ferrata']
+---
+
+  The psychology of Via Ferrata is similar to the psychology of climbing except that everyone is moving constantly and there are few pre-requisites. As a result of this it is easy for people to push themselves beyond their comfort zones. They can be made uncomfortable by how high they are off the ground, how little they trust their equipment or the equipment on the cliff face. Peer pressure can also help make the challenge harder to cope with.
+
+### Fear of Heights
+
+In Via Ferrata there are four psychological challenges to face. The first of these is height. In normal life we are usually no more than two or three floors off of the ground and unless we're on a balcony we are at ease within various rooms. The fear of heights comes when we are more exposed, for example on a roof top, on a high bridge or other places.Â Some via ferrata take you from the base of the cliff upwards so you gradually get used to being higher and higher. You acclimatise and although certain moments may be scarier there are places where you feel at ease and your level of tension decreases. Other via ferrata start high off the ground and immediately pull practitioners out of their comfort zone. Be wary of this. With the right guidance beginners will make it from start to finish. It will be character building for the guide and the student.
+
+### Trust the equipment
+
+The second fear is a fear that the equipment will not keep us safe. This is true for scuba divers, rock climbers and many other types of sports. In rock climbing you need to trust your harness and the via ferrata set. Until you trust this equipment to keep you safe you will be unable to rest on a via ferrata. A novice will look to rest in a place where it feels natural to rest. This could be a depression in the rock or a ledge. At this point they can sit in a familiar context. The second set of equipment to trust is the Via Ferrata equipment on the rock face. In this instance I have read two or three documents that are designed for the installation of new routes. Through the reading of these documents I saw that via ferrata equipment is over-engineered to take far more weight than we are likely to exert on the equipment. I also went with a maintenance crew and followed the thought process involved to make sure that the Via Ferrata equipment is ready for the current season.
+
+### Food and Hydration
+
+When you are on a via ferrata it is important to eat and to drink enough to have enough energy throughout the via ferrata. To drink and to be hydrated keeps us comfortable. This is especially true on south facing rock faces at midday. It is easy to get dehydrated. When I was a novice via ferrataist I often craved for a drink by the time we had completed the via ferrata. As a result of this I soon started to carry more than enough water. Once or twice I had a hot chocolate at the end of a climb, because I was so well hydrated. Food is a must, especially on a via ferrata like Leukerbad. You are climbing for five and a half hours and you are using your legs and arms. It's good to have snacks that you can eat every half hour or hour. This will give you the strength and endurance you need to complete the climb. It is also important to have snacks that provide you with a quick energy boost when you have an overhang or other physical challenge to overcome. Knowing that you have enough energy will help you complete the via ferrata comfortably.
+
+### Peer pressure
+
+It is important to try never to do via ferrata alone. It is better to be with a group of people whom you trust and whom can help you to complete the via ferrata. You need to find a group that goes at a speed where you are comfortable. Ideally the person or people you go with will make it clear that they are going at your speed, not theirs. With my level of experience I dance up a via ferrata that is meant to take one and a half hours in fifty minutes. If I am with a less experienced person I go at their speed. I suggest the moments when they should rest and drink. I also ask whether they would like to eat. IÂ never want the person to feel pressure, never to try to exceed their comfort level. The aim is not to add to the stress that less experienced climbers are under. It is easy to go too fast. It is easy to forget to rest before we are tired. A good group leader will make sure that people are within their comfort zone. When exploring segmented via ferrata where there are escape routes and where sections get progressively harder make sure to ignore your ego and listen to your common sense. It is easier to say "I can go on" than to say "I'll take the escape route". I have often chosen not to push myself beyond my comfort level. It is better to give yourself a reason to come back than to regret taking on a challenge. I have read and heard of people getting stuck at Saillon, Fort L'Ã©cluse, Plan Praz and other via ferrata. A helicopter rescue is 3000 CHF. When ground teams rescue someone they do so in groups of five.
+
+### Clearing your mind
+
+Under the right conditions a via ferrata clears the mind and recharges you from the pressures of the week. It is a sport that you can get up to every single weekend when you live in some parts of France, Italy, Spain, Switzerland, Austria and others. It is an opportunity to visit new places and meet new people. With the right people you will arrive at home in the evening with good memories and feel impatient to practice the sport again.

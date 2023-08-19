@@ -1,0 +1,8 @@
+---
+title: 'TomTom Go and the diminishing cost of live traffic data when driving'
+date: Tue, 05 May 2015 19:01:36 +0000
+draft: false
+tags: ['GPS', 'mobile', 'navigation', 'reviews', 'tomtom', 'traffic', 'waze']
+---
+
+Today with Tomtom Go you pay 20CHF per year for the maps and traffic information. When I first bought the TomTom Europe apps for iOS and Android they cost about 170CHF an operating system.Â If my memory serves me well traffic information would cost an additional 100 CHF per year. As a result of the high costÂ for traffic information I was in the habit of using Waze. As long as you have a data connection you get maps and traffic information for free. It would save you 270 CHF initially. When you live in the french speaking part of Switzerland you are just minutes from France and within hours you can be in Germany, Austria and Italy. As a result having maps pre-loaded in to your navigation is useful. That's where Tomtom at 20CHF per year becomes interesting. The maps available are for individual countries, for Western, Europe, Eastern Europe, the whole of Europe, The Caribbean, North America and South America. Each of these maps can be downloaded ahead of a trip and used. This means that once you've paid your 20 CHF you have maps for the world, not just for your daily commute. I am so convinced by Tomtom's new philosophy that I have uninstalled Waze and will now use Tomtom primarily and Google maps as a backup.

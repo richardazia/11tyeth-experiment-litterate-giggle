@@ -1,0 +1,8 @@
+---
+title: 'O2 and iPhone'
+date: Thu, 05 Jul 2007 11:55:57 +0000
+draft: false
+tags: ['Apple', 'facebook', 'Google', 'iPhone', 'mobile phone', 'random', 'smartphone']
+---
+
+According to a number of articles, 02 and Apple are in final discussions about the iPhone and how they will distribute it within the European Union. So far we still have to wait until December of this year to get it in Europe. I don't think I want to own this particular phone because the one I have now has almost all these functionalities to start with. I also like having a qwerty keyboard for ease of typing whilst on the move, unlike the iPhone. The browser is probably the strongest feature of the iPhone but this is irrelevant for most websites. Both Google and Facebook, two of the only websites I'm interested in using on the move have created useful interfaces for those on the move. in the case of Gmail, it's the interface that allows you to check and send e-mail within their own java applet which is installed on your phone. In the case of Facebook, their strength is in giving you just the features you want, i.e. what your friends are doing, the latest news, and more. It's great to get some quick information whilst unable to go online. I want to try out the iPhone and see how great and easy it is to use. Apple loves making software that is simple to use, without submenus as you find with windows mobile so for newbies it's better. In a few months, I may get to see the iPhone in person and see how good it is.... unless I fly to the US or go to one of the EU Macworld.

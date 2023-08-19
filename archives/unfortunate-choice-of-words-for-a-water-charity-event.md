@@ -1,0 +1,10 @@
+---
+title: 'Unfortunate choice of words for a Water Charity event'
+date: Thu, 19 Feb 2009 09:59:05 +0000
+draft: false
+tags: ['charity', 'Uncategorized', 'water']
+---
+
+> International World Water Day is held annually on 22 March as a means of focusing attention on the importance of freshwater and advocating for the sustainable management of freshwater resources.
+
+"After the [**Twestival**](http://twestival.com/) hangover, how much money was raised for charity:water?" [_Source_](http://www.guardian.co.uk/media/pda/2009/feb/18/twitter-socialnetworking) There are some events I don't feel are really as chartable as they sound and twestival is one such event. I have absoluetely nothing against the charity they are raising funds for but I do question the ethics behind the events. Can you spot the word that I find is unfortunate? Hangover, that's the word I think should never be used in this context. Here you are stating that you want to help a charity to raise funds for a charity but you do so through music and other events. Problem is you've got people drinking alcohol at the event.If they woke up the next day with a hangover then what value and what message did they get from the event? If I were to organise such an event, especially in London, then I would go to the Frontline club and see whether they know of any documentaries on the topic. I would attempt to get some people whose job it is to study the problem of water and get them to speak. In particulr I'm thinking of a session like the one concentrating on water at the World Economic Forum in Davos. They are specialists in relation to this topic. As a result they know what figures are important. How many litres of water does it take to produce one litre of biofuel for example. I don't have the numbers on hand but they are impressive. [For More information](http://www.unesco.org/water/)

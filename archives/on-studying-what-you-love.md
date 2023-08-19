@@ -1,0 +1,8 @@
+---
+title: 'On studying what you love'
+date: Tue, 27 Mar 2007 10:40:46 +0000
+draft: false
+tags: ['community', 'facebook', 'social media', 'social media', 'social media living room', 'student life', 'studying', 'tech related', 'twitter', 'university']
+---
+
+I love technology, especially in the form of online communities. I've been part of so many online communities I have some degree of expertise. I've seen the birth of the chatroom and it's evolution, the popularisation of instant messaging and through flipside and nochicktrix I've seen the forming of virtual communities. More recently I've seen the increase from virtual communities to real communities. Over the past two years, almost everyone I know has created a myspace account and for a while, this was the best place for people to be. More recently though people have moved to Facebook. Having more than 140 friends, of which only three I do not know, is a sign of how times have changed. It's actually fashionable to be part of an online/offline community. All the parties I've recently been to have been advertised on Facebook among other places and it's become the social networking site of choice. If you're not there you don't know what's going on anymore. It's a great shift. It's also replacing e-mail. Why e-mail people when all your friends are on Facebook. Why not take advantage of unlimited photo uploads to Facebook to add all those past nights for everyone to enjoy. I love the way technology is going. It's sociable.

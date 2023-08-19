@@ -1,0 +1,8 @@
+---
+title: 'Travian, an online game'
+date: Wed, 12 Sep 2007 10:55:45 +0000
+draft: false
+tags: ['fun', 'random', 'tech related']
+---
+
+[Travian](http://www.travian.co.uk/) is one of those games you would have loved to play after reading a few Asterix comics. There are three civilisations you can be, Gaul, [Roman](http://www.main-vision.com/richard/romans.html) or Teuton. Each player starts off with one village and expands from there. There are four types of resources. These are wood, clay, iron and wheat. As your village begins you need to decide on what resources you want to grow. Click on the land type and you will see a display with the amount of time it will take for the order to be completed. The next step is to look at your town. Build a granery, a cranny, a warehouse and other buildings that make a village what it is. Overtime as your buildings improve so the town is large enough for more buildings. These are stables, palaces, residences for kings and more. Getting your village to expand is just one step. The next step is to make sure that you're safe. Around you are many other villages and some of these players have been playing for a number of months. As a result they have amassed many resources and alliances. They will attack and pillage you therefore you must defend your land with troops. As you expand and form alliances so the game becomes more interesting. At this point you are competing not just as a village but as alliances to see which can be the most prestigious. It's a fun game, reminiscient of such games as Civilization amongst others. If you need a two minute break whilst working on a long project then this may be the game for you. I've enjoyed it and so may you.

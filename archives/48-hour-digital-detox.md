@@ -1,0 +1,8 @@
+---
+title: '48 hour digital detox'
+date: Mon, 09 Nov 2015 18:33:59 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+People like me do not need a 48 hour digital detox. I spend time online socialising and finding people with whom to do interesting activities. With one group of people I would scuba dive every Sunday that I was not working. With another group of people I went canyoning and explored rivers from the river bed rather than from a path on the side. With another group I explored via ferrata and this passion has kept me entertained every summer weekend for five years now. With videos like the one, about digital detoxes, and with articles speaking about teenagers jettisoning social media because this is not the real world it is easy for people like me to develop concern for our well being. For a few minutes we feel guilty about our passion for the world wide web and online interaction. As I eventually made it to the end of this video I felt really good about the life I am living. I noticed that I am really lucky. I do not need to think about what to do on weekends. I have the problem in reverse. Should I do a via ferrata or should I go for a hike. Should I go out to town tonight or should I be on top form for the mountains tomorrow? If I was in a town or a city I would feel the need for a digital detox but as I live in the countryside I feel that my online habits are healthy. Look at my instagram pictures, look at flickr and look at Google Plus. I spend a lot of time doing things in the analogue world. Some day luddites will learn to be happy with current technology habits. ![XKCD isolation](http://imgs.xkcd.com/comics/isolation.png)

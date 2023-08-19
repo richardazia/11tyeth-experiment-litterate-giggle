@@ -1,0 +1,8 @@
+---
+title: 'Facebook and marketing'
+date: Sun, 25 Nov 2007 11:37:59 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+Today I really wish i could vote for whether I like or hate the adverts that facebook are displaying in my news feed. The reason for this is simple. Whilst everyone else is complaining about how advertisers are destroying their privacy with targeted advertising I find the opposite is true. I'm really angry with Facebook advertising The Sun in my newsfeed, especially since there is no evidence of me enjoying tabloid crap anywhere on the worldwide web. I'm angry for two reasons. The first one is that they dare to put such a crappy newspaper in my feed. The second one is how they advertise it. If they advertised quality news articles then I could forgive them but to advertise how they intend to invade the privacy of the stars is plain wrong and stupid. For this reason I was thinking of using just the portable version of facebook but to no avail. You can't accept event invites so within two hours of deciding to ignore the full version I was back. I want to be able to accept events via mobile devices. I also want to be able to say that I hate certain adverts. If I can say I hate news from certain friends then why can't I say I hate the adverts. I want to let them know that their adverts are crap and that I dislike their products. Facebook If you're reading this let me show which adverts i hate. It'd be worth your while.

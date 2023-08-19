@@ -1,0 +1,8 @@
+---
+title: 'It feels really great'
+date: Wed, 25 Apr 2007 23:35:44 +0000
+draft: false
+tags: ['dissertation', 'media studies', 'student life', 'university', 'work']
+---
+
+For the past hour or more, I've been listening to music and working on my dissertation and I've just hit 9500 words on my dissertation (disso as it's affectionately referred to) and it feels great. I'm so happy that I have two weeks in which to proofread, re-write, and improve what I've written. It's the first time in my life that I finish the writing part of my assignment two weeks earlier than the deadline. I'm not crying victory yet (french expression: mieux vaut ne pas crier victoire), after all, I'd expect myself to do at least another ten to fifteen hours of re-writing. I still have to format the references properly and look for video captures that can help illustrate my points so that the layout earns extra points. Reading this post you'd be led to believe that I take this work seriously, and the truth is I do. I started it last summer when I came back to London looking for work. I applied to at least twenty jobs without luck and as I was growing demoralised I dropped by the library when no one else was there and borrowed as many books as I thought I could carry without a surtax on the plane. Over the summer I worked through over twenty chapters about film theory and created a documentary over 50 pages long and 25,000 words in depth. I also watched hundreds of hours of documentaries. Aside from the website, it's the biggest project I've ever taken on. I hope I do well.

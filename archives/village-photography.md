@@ -1,0 +1,8 @@
+---
+title: 'Village Photography'
+date: Tue, 25 Nov 2014 18:25:19 +0000
+draft: false
+tags: ['documentary', 'Documentary', 'lifestream', 'observation', 'photography', 'rural', 'social media', 'Swiss walks', 'Switzerland', 'travel', 'Uncategorized', 'village']
+---
+
+On Google Plus, one of my muses, I saw that instead of Street photography someone suggested Village photography. I like the idea because villages are such an integral part of my life. Life in villages is a privileged one. Every time we go for a walk we cross people we do not know and say hello. We walk from field to field and along paths. We see which crops have been planted and which ones are being harvested. We see frequent horses and dog walkers. We also see families. We hear the sound of rifle practices at the local gun range. The practice is for military service most of the time. We also have fountains and old buildings. We hear the church bell every half hour and hour. We see the fountains with wooden chalet to protect from the cold in winter. Villages are seasonal. In summer the sounds of children playing, of fireworks and of barbecues can be heard. In Autumn the sound of wind blowers can be heard. In Winter we see lights on as the neighbours prepare their evening meal. In the mornings we see parents bring their children to school before the bell rings and they head in to their classes to sit and wait impatiently for the school day to be over so that they may go out on adventures. That's why village photography captivates my imagination. I know villages well. I appreciate them. I look forward to looking at images from the past, and preserving today for future generations.

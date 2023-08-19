@@ -1,0 +1,8 @@
+---
+title: 'Socialthing aggregating several websites at once.'
+date: Sat, 22 Mar 2008 12:58:16 +0000
+draft: false
+tags: ['facebook', 'flickr', 'livejournal', 'social media', 'social networking', 'socialthing', 'tech related', 'twitter', 'Video']
+---
+
+I'm active on more social networks than I have time to go through in a day and that's where [Socialthing](https://socialthing.com/) comes in. It allows me to follow news from [facebook](http://www.facebook.com), [twitter](http://www.twitter.com), [pownce](http://www.pownce.com), [tumblr](http://www.pownce.com), [flickr](http://www.flickr.com), [vimeo](http://www.vimeo.com) and [livejournal](http://www.livejournal.com). What I like about this site is how easy it is to see everything that goes on. Whereas f[riendfeed](http://www.friendfeed.com) is nothing more than a few lines of text this version of a social feed aggregator is the visual aspect. At a glance I can see which social network is giving the content and I can post accordingly. If I see a status update on facebook for example I can view the profile and add a comment. There's that option with twitter too. I can see everyone's tweet and I can reply to any friend's post quickly and easily. As a positive sidenote I can follow what's going on on pownce without logging in. I've often felt that the limitations of that site is the lack of people outside of California using it. At least this way I may find my interest growing. If I'm in a rush or there's an important message to get out I can simply select to "post" a message to all these social networks at once. That saves a lot of time although as expected this should not be used too frequently as it adds a lot of "noise". I'm looking forward to more services being included

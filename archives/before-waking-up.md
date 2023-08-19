@@ -1,0 +1,8 @@
+---
+title: 'Before waking up'
+date: Thu, 15 Mar 2007 09:29:20 +0000
+draft: false
+tags: ['deadline', 'dissertation', 'dreaming', 'dreams', 'flying', 'media studies', 'student life', 'travel', 'travel', 'university']
+---
+
+Before waking up I found myself catching a plane to an airport before catching a small private plane to somewhere in the mountains where I went skiing. I was going home but for some reason I was late. I was telling myself that I had to get back to one place to get my luggage before going home before realising that I didn't. I decided to rush for the plane, dropped by my room, and threw a cursive look before running back to the small private plane, asking whether I was on the first flight before the plane took off. For some reason, it had to taxi along some mountain roads and almost hit some bowling balls on the tarmac. Quite a confusing dream to have had. I usually have strange dreams as summer starts trying to get in through the curtains. It'ss the fourth or fifth day of sunshine in sunny London. Another day of sitting in the sun whilst waiting for night to fall to continue working on the dissertation. Last night I spent at least an hour going through some of my notes. Highlighting relevant bits and thinking about how to structure the introduction.  Now it's another 15 days of such effort or more. The deadline is still over a month away but it's better to do as much as possible now to relax afterward... or at least not panic.

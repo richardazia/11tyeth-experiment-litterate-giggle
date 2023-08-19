@@ -1,0 +1,8 @@
+---
+title: 'On the HDR-SR12'
+date: Fri, 06 Mar 2009 10:54:02 +0000
+draft: false
+tags: ['High definition', 'Samsung', 'Sony', 'Video']
+---
+
+It's no secret that I now own an HDR SR 12. It's a small light weight video camera that shoots in high definition at 1920x1080i but I've been shooting at 1440x900 most of the time. Recently I went through the streets of Nyon filming people as they enjoyed the first real day of spring. I filmed a diversity of things. The White Castle, couples sitting by a wall drinking cans of some fluid and people walking around. There's even footage of a guy filming a girl presenting products for something. I have no idea of their goal. As I watched the video back on a 40" monitor I was really happy with the results. The picture was sharp, the colours were great and you really could look around the image to see every little detail. Recently I lent my camera to a very knowledgable friend of mine, when it comes to broadcasting and he was happy with the results too. He was telling me about watching images with XV colour, which I hadn't paid much attention. He told me that for certain natural colours, green for example when the light was just right the saturation was really nice. He was using a Samsung screen whilst I was experimenting with Sony. What I feel is particularly gratifying is that this, by broadcast standards, is a really cheap camera and already it delivers top rate results. Of course with progressive imaging it would be better and it does lack when subjects are back lit. I wrote about some of the drawbacks in a recent post but it's still an excellent camera. I have a few documentary ideas I will need to get round to filming as summer approaches. I do want to take advantage of having such a light camera.

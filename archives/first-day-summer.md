@@ -1,0 +1,8 @@
+---
+title: 'The First Day of Summer'
+date: Thu, 23 Jun 2016 12:17:44 +0000
+draft: false
+tags: ['Video', 'youtube']
+---
+
+The good weather is finally back. I took this opportunity to go out and film around La Rippe which is on the border between France and Switzerland. From here you can see the Mont Blanc and the Jura. If you look to the South West you can see Geneva's Jet D'eau and the SalÃ¨ve. I found the first location's vantage point when I had a day off from work. I don't remember where I was cycling or driving the scooter but I went up. To get to it you have to head up a steep hill which is good when you're cycling as it builds up your endurance. It can also be fun on the way down. Now that the weather has improved I have a number of locations that I want to film. I want to experiment both with 360 video and flat video. I want to go to interesting locations and share the highlights with you. The better the weather the easier it will be for me to get the material. I would have ranged further today but as I will be climbing this evening I prefer to preserve that strength and endurance. Tomorrow I can range further. The three sports I would like to focus on this summer are climbing, both conventional and via ferrata, hiking and cycling. Each of these sports is feasible in the landscape around here. Hikes can take you by some spectacular scenery. The challenge will be to decide whether to film with the 360 camera or the conventional one. Time will decide. I can easily carry both cameras but it is always better to focus on one format at a time.

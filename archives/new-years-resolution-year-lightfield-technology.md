@@ -1,0 +1,18 @@
+---
+title: 'A list of drones I have tried this year.'
+date: Sat, 30 Dec 2017 09:17:39 +0000
+draft: false
+tags: ['dji', 'drones', 'Drones and quadcopters', 'hubsan']
+---
+
+#### Trying various drones
+
+This year I finally bought a few drones to play with and DJI and Hubsan are currently my favourite brands. The most fun to fly indoors is the Hubsan Nano Q111 drone, or something to that effect. At first this is a hard and temperamental little drone to fly. Just getting it off the ground is a challenge., This challenge comes from the fact that it has no pilot assistance. It slews to the right and the left and it has no altitude hold. This means that constant little inputs are needed. As the battery depletes you need to give the drone more power simply to hover. With practice the drone is really fun and best of all I didn't break any props. I only burned out two of the motors when the drone got caught in something. I tried flying the Q4 as well but the results were disappointing. I tried flying the Demon something by some brand and this was a flop. The problem with this drone is that the props are well protected against colliding with things but the struts are too fragile. Within just a flight or two I broke the strut to one of the props and it is now great at spinning in place rather than flying.
+
+#### DJI
+
+Earlier this year I saw someone fly the DJI Mavic pro during the IFSC World cup and when I saw how easy it seemed to fly my interest grew exponentially. I saw that it could guide itself back to it's take off point and was autonomous. For a while I hesitated about buying my own drone until I finally decided to buy the [DJI Spark](https://www.main-vision.com/richard/blog/flying-the-dji-spark-is-fun/). This is a really fun drone to fly. It's simple and intuitive to use and it provides great images. I have now flown it in France, Spain and Switzerland. What makes this drone so great is that it's tiny, ideally suited for when I go hiking and to do other sports. I have 7 batteries for a total flying time of 105 minutes. I calculate three batteries per day and one spare. I am now at my 99th "flight" with that drone, My next flight will be number 100. We'll see how I celebrate that.
+
+#### Addressing the Stigma
+
+There is a lot of stigma around drones. People are afraid that they will be used for spying, that they can be used as weapons, that they can interfere with aviation. The truth is that most drones are small and light and that the lens is wide therefore they can be heard from a distance. People refer to the sound they make as that of a large bumblebee. Not only can you hear them but you can also see them quite easily. Rules are in place to prevent us from flying above 120 metres in most countries, around cities and above crowds. We also have to fly them within visual range. This means that whenever people can see the drone they can see us. They can ask us to stop flying or they can ask questions. As drone enthusiasts, we can work as ambassadors to show that drones are not the stigmatised devices that they were encouraged to fear. We can show them the beautiful images and videos we can get and we can also show them that some of them are relatively easy to fly. The better we behave as early adopters the fewer restrictions we will see implemented down the road. We have a moral duty to obey the rules and sensibilise the lay public to how much fun they can be.

@@ -1,0 +1,8 @@
+---
+title: 'Cycling with the London Beer Bike group and with a group in Geneva'
+date: Thu, 25 Jun 2015 08:36:54 +0000
+draft: false
+tags: ['cycling', 'cycling', 'lbbg']
+---
+
+The London Beer Bike group could tempt me to move back to London when and if I can find work there. When I left London it was the city of social media, where for the months after I graduated from University I would go to tweetups, seesmeetups and more. The last time I went to London I met with the London Beer Bike Group (LBBG) and enjoyed cycling across London with a group of others. The pace was relaxed and it allowed me to see the city in a way that I am not used to. When I lived in London I would move around by tube and by foot. As a result of this I learned the layout of the city but only within reasonable walking distance. Cycling in London as a group is fun because you are safer. Cars can't overtake you as easily and when you move off from traffic lights you can move as a group. It's also an opportunity to see new parts of the city. London on a bike feels smaller. You don't have to take the busy roads. You can take side streets and cross parks to avoid traffic. As I dislike sitting and listening to small talk this is ideal. I mention this because later today I should be meeting a group to do something similar in Geneva. As cycling to Geneva and back is a 60km round trip and as I will return later in the evening I will use the car to get the bike down to the lake side and then cycle from there to Geneva with a possible destination of going towards Cologny. I know the roads around there from scuba diving.

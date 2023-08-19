@@ -1,0 +1,8 @@
+---
+title: 'I have become death, destroyer of macbook pros'
+date: Sun, 23 Aug 2009 14:12:19 +0000
+draft: false
+tags: ['display failure', 'macbookpro', 'Uncategorized']
+---
+
+For the second time in a little over a year the video card on my macbook pro has failed and I am left with the black screen of death. As a result of this I will have to send the machine off for repair for a second time. Luckily the machine is still under warranty so the only challenge is finding a day off and bringing it for maintenance. It had to fail this weekend, on Saturday afternoon only once all the shops had closed. It means that getting the machine maintained will be a little more of a challenge. The second challenge of course is that I'm meant to do two days of editing on Tuesday and Wednesday and I may not have a computer. You've got to love trade unionists for making sure shops are closed on a Sunday. Now the question is what to do next. Do I buy a new macbook pro as the new version of finalcut pro came out or do I invest in a far cheaper computer running linux. In fact do I forget about PC and Apple and go Linux all the way. It could be quite fun, once winter comes back to build a linux based video editing system where I understand the hardware. You know I'm not going to get far with that project. On the positive end of the spectrum I'm in full time employment with three different types of work I'm asked to do so buying a new machine is no problem. It's just a matter of whether I have the necessity right now.
