@@ -1,5 +1,5 @@
 ---
-title: '1st of August - FÃªte national Suisse in St Prex'
+title: '1st of August - Fête national Suisse in St Prex'
 date: Wed, 03 Aug 2016 10:04:53 +0000
 draft: false
 tags: ['summer holidays', 'Switzerland']
