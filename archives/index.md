@@ -9,5 +9,4 @@ Some more text
 
 * it does not work
 
-* I want to understand why. 
-
+* I want to understand why.
