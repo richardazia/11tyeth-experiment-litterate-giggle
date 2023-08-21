@@ -1,8 +1,0 @@
----
-title: 'I hate slow connections'
-date: Sun, 14 Jan 2007 11:24:57 +0000
-draft: false
-tags: ['articles', 'connection speeds', 'media consumption', 'news', 'newspapers', 'pub', 'random']
----
-
-I hate slow connections, they force you to wait patiently whilst the content you desire shows itself. It forces you to select more carefully the content you are about to read. When the connection is fast you skim through the pages reading the first paragraph before jumping onto the next page until several hours have passed. In contrast with slow connections you look through articles of interest and start downloading them. As one arrives you read it without rushing. There's no point. You've got time. Whilst I was in the southwest of England every Sunday I would go to a pub where I'd order a coke and find all the newspapers. I would have four or five papers and I would skim through each paper looking for articles of interest. On occasion I would read the entire article, learning new things as I went along. It allowed me to keep up to date with what was happening. It was a method of escape, of relaxation. There was no rush, nowhere to be. It was directed daydreaming rather than free. It was directed by the article. The eyes read the text and the mind translated it into pictures and thoughts, spreading and converging. Occasionally those daydreams meant that the eyes were reading the text but the mind was thinking of something else. That demonstrates that the article was not written as well as it should have.

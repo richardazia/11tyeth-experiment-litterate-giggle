@@ -1,8 +1,0 @@
----
-title: 'Slacklining on a bike - A six month challenge'
-date: Wed, 23 Sep 2015 14:47:28 +0000
-draft: false
-tags: ['Video', 'youtube']
----
-
-We have seen videos of people slacklining and we have seen videos of people mountainbiking but having a video where we see people slacklining on a bike is less common. This video shows us some beautiful landscapes with cycling somewhere in shot before descending the mountain towards a slackline and crossing. [Kenny Belaey](http://www.belaeytrials.com/) managed the feat. The images are impressive and what makes this edit stand out from others is the way in which we can hear the breathing of the athlete. Those of us who often push ourselves towards our fears are familiar with it. I love the moment when he makes it across and can't believe it. I've had moments where I breathed like that after particularly challenging segments on via ferrata. He trained for 6-7 months to get the experience and skill required to balance. The making of is interesting. Â The video was shot in La Plagne, France. Spot the drone when he is practicing. In the near future we will find more and more videos like this, where one extreme sport is combined with another. Pro athletes will have to master more than two sports at a time and so the images will be all the more spectacular. We will see them set up longer slacklines and they will make them longer. It's about the spectacle. As this variant is in it's infancy we see the use of safety equipment but in future versions this equipment may be gone.

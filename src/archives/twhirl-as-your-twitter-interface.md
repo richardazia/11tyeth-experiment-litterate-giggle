@@ -1,8 +1,0 @@
----
-title: 'Twhirl as your Twitter interface'
-date: Fri, 11 Jan 2008 19:58:56 +0000
-draft: false
-tags: ['AIR Twhirl', 'twitter', 'twitter', 'Uncategorized']
----
-
-For those of you familiar with twitter there are a number of ways of keeping up with information and my current favourite is Twhirl. What I love about using Twhirl is how well it works. At first it feels clunky. You've got to download adobe air, then you've got to download twhirl and once this is done you've got to get used to the user interface. I went from twitterific to here and the transition was relatively painless. I missed one or two of the keyboard shortcuts. Since then I've grown to enjoy using it for three key reasons. The first of these is that you don't need to restart it as there are no caching issues. For someone who tweets as much as I do and follows as many a lot of time would be sent reseting twitterific. Not with Twhirl. It's got over 5500 tweets right now and no sign of slowing down. The second feature i love is how you can choose whether to @, DM, Favourite or re-tweet. Anyone using twitter is familiar with the first three. The re-tweet feature is fun. It allows you to retweet verbatim quite easily. I don't see it used often luckily but it's a nice gimmik. The third feature that I enjoy are the shortcut keys specific to this program. R for replies, F for friends, D for direct messages and then there are two or three other such short cuts that could be of interest. As an aside you've got the filter option although having not used it I can't comment. It's a nice package and anyone using Aero should give it a try.

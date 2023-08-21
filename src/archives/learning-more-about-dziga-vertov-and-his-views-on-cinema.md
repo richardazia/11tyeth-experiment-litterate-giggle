@@ -1,8 +1,0 @@
----
-title: 'Learning more about Dziga Vertov and his views on cinema'
-date: Fri, 02 Nov 2007 14:35:33 +0000
-draft: false
-tags: ['book', 'documentary', 'dziga vertov', 'fun', 'Post-university life', 'social networking']
----
-
-Dziga Vertov is an interesting personality because of his ideas of the Cinema eye. His notion was that with the cinema eye, the Kino Glaz you could capture life unawares whilst being involved in the creative treatment of actuality. After making some quick money by answering some social networking questions I dropped by the apple store only to find that computer games are far too expensive for what they are. I dropped down via the usual streets and got to [waterstone's.](http://www.waterstones.com/waterstonesweb/home.do) There is a small documentary section which I have visited on numerous occasions in the past and today I found an interesting book. It's Dziga Vertov - [Defining Documentary Film](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.uk%2FDziga-Vertov-Defining-Documentary-Russian%2Fdp%2F1845113764%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1194013942%26sr%3D8-1&tag=perspectraveland&linkCode=ur2&camp=1634&creative=6738)![](http://www.assoc-amazon.co.uk/e/ir?t=perspectraveland&l=ur2&o=2) by Jeremy Hicks. It's a translation of some of Vertov's key texts so that the non russian speaking audience may understand his ideas more clearly. I only got as far as reading the introduction but I hope that through the reading of this book I may get some new views and opinions on the current media landscape.

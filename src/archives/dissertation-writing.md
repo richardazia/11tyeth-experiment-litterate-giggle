@@ -1,8 +1,0 @@
----
-title: 'Dissertation writing'
-date: Thu, 29 Mar 2007 12:44:46 +0000
-draft: false
-tags: ['dissertation', 'media studies', 'progress', 'studying', 'university']
----
-
-I have had a few big writing projects. The first of these was creating the website on the Romans. I had set myself the task of writing down everything that I knew down into a word document. That word document was transformed and cut up into a number of HTML pages and turned into a website. That project started ten years ago. After that project, I wrote an essay about information technology in a global society and that was really interesting. I finished that essay within a few months. I never stopped studying that subject and it's coming in very handy at the moment but that's another story. A dissertation is a lot like creating a specialised website. You gather hundreds of bits of information and amalgamate them into a collection of articles. Each article adds an aspect to the conversation that you are having with your reader. As they gather this information their knowledge can be used to explain whether what you have noticed is due to social effects, whether it's regulatory or other. It's not that hard but it's scary to write dissertations because you have to be careful to stay on topic, you have to make sure that it meets with the requirements of the dissertation examiner. I love writing but I'm slowed down by having to source everything that I write. I'd prefer to write for pleasure but that will have to wait till I finish university. Just over a month to go till I regain my freedom.

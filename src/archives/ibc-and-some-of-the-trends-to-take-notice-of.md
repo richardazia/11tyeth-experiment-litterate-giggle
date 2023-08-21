@@ -1,8 +1,0 @@
----
-title: 'IBC and some of the trends to take notice of.'
-date: Tue, 16 Sep 2008 19:15:08 +0000
-draft: false
-tags: ['IBC', 'IBC']
----
-
-IBC is a big show. There are a lot of things to see. Some of those are fun and innovative whilst others are less interesting. I've noticed that there are quite a few companies showing mobile and IPTV solutions. Many of them are multiplatform, web tv, mobile and other. they work on a variety of codecs. Anothr aspect is the virtual studio and automated processes. We see many remote camera rigs, remote jibs, remote 3d modeling cameras and to some extent virtual modelling and sets before any of the shooting is ever done. In reality it's abou he one man operation. One camera operator to program, one person to control multiple camers and more. It's also about high definition and 3d. There were quite a few examples and solutions attempting to allow for 3D productions, from two small cameras fitted on a rig to allow for shooting as if it was two eyes to more expensive rigs where you'd see two cameras, one pointing down and shooting through a mirror with another shooting straight forward. Of course there are also the monitors that can play in 3D. Several stands had demonstrations and implementations of this technology. After this we have the importance of asset managment. Many companies were working at offering solutions for newsrooms, video archives and more. That's because of the amount of content that content aggregators are now having to contend with. It's an interesting time. i learned quite a bit on this topic. There are many more details to be discussed but those are some of the key points I have noticed at this particular IBC. More articles will come soon.

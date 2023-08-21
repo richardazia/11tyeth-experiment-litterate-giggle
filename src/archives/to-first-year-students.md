@@ -1,8 +1,0 @@
----
-title: 'To First Year Students'
-date: Sat, 17 Mar 2007 02:58:35 +0000
-draft: false
-tags: ['student life', 'student politics', 'university']
----
-
-I urgently recommend that you challenge the election results in relation to Salima. She won by only 25 votes and there are a few people saying that they would have voted differently had they known what the fliers contained before they voted. The fact that someone failed their first year, only to become SU president six years later is utterly unnaceptable. You're students and you're working hard in order to build up knowledge and prestige for the course you are studying. If yor SU president failed their first year then what right do they have to represent "students" ? I've worked hard, Martin has worked hard, Phil has worked hard. They're good people on the campus with the most activities, the student radio and more If Martin missed out by 25 votes then this, in my eyes, is too close and a recount and re-vote should be requested. It is not healthy that within certain circles there are allegations of corruption whilst the SU president never bothered to comment. The SU president is an elected offical and as such is responsible to the student body. The fact that she never bothered to answer WNOL, Smoke or Sarah Lefley, a collegue, in relation to this topic is utterly unacceptable and an investigation should be carried out. I can't accept that a failue should be elected two years in a row to the highest rank of our SU by only 25 voices in such mitigated circumstances.

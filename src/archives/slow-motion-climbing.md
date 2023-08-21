@@ -1,8 +1,0 @@
----
-title: 'Slow Motion Climbing'
-date: Thu, 30 Jun 2016 10:43:45 +0000
-draft: false
-tags: ['Rock climbing', 'Video', 'youtube']
----
-
-It is interesting to watch Slow motion climbing because you get to see precisely what people are doing. You get to see how each muscle group is moving and you see how much the body swings as someone jumps from one hold to another. It allows you to appreciate the subtlety of the moves. People like to say that rock climbing is about technique rather than strength but it is evident from these slow motion sequences that muscle groups are working hard. You see the arm muscles, the arm muscles and the back muscles move. You also see how the legs act as counterweights. The video above would be better if it was one or two minutes. The same can be said about the video below. What makes slow motion interesting is to catch details that you would not otherwise notice. Ideally slow motion edits should show the action in real time and then show the same action in slow motion. The beauty of slow motion is that you can see how technically perfect a move was. In some cases a person starts from vertical and goes for another hold. In this action they go from vertical to horizontal, swinging on their fingertips. Slow motion brings the effort to life. There are other moments where a massive effort, when seen in real time, is clear to see When you watch that same motion in slow motion it looks relaxed and serene. That is the beauty of this medium. Slow motion should highlight the beauty of a well executed move to help emphasise that it was technically good. Slow motion should be used sparingly.

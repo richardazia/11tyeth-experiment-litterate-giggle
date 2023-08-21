@@ -1,8 +1,0 @@
----
-title: 'Flowing water - a visual experiment'
-date: Sun, 26 Jun 2016 18:24:00 +0000
-draft: false
-tags: ['Documentary', 'environmental', 'short film', 'Switzerland', 'Video', 'youtube']
----
-
-Flowing Water - A visual experiment is a simple one minute video. The first images were filmed at the Arboretum in the Jura and the timelapses show clouds playing above the Jura near La DÃ´le. La DÃ´le is where the doppler radar is located. That radar shows rainfall and precipitation so that air traffic controllers can advise pilots of weather conditions. With the amount of rain that has fallen over the last six or more weeks every river is full of water. As a result of this they are flowing fast and debris can be seen. When rivers flow fast they are fun to watch. The next step would be to capture waterfalls over a period of minutes or hours. If we stopped recording just as the rain stopped we might get interesting results. The peak wouldn't appear until soon after the rain stopped. I was lucky with these clouds because they moved quickly from one side of the screen to the other. They also formed and dispersed quickly. As a result I could set the interval to take images every few seconds. I could quickly see the result and adjust. When I filmed the clouds I filmed the ground and the trees as they came in and out of the shadow of clouds, I filmed a tighter shot where you could see the transmission mast and then I pointed to the sky and tried to capture the movement of clouds with blue sky as a backdrop. Some moments are fun to watch.

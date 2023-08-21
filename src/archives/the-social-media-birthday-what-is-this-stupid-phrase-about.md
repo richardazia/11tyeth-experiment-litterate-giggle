@@ -1,8 +1,0 @@
----
-title: 'The Social media birthday, what is this stupid phrase about?'
-date: Thu, 20 Dec 2007 20:39:02 +0000
-draft: false
-tags: ['social media', 'travel', 'twitter']
----
-
-Birthdays, until recently were about being with friends, birthday presents and good meals. Today however they have moved into the digital era, as a result of our ever more international lifestyle. Many of us travel between countries at least once a month whilst some of do so more often. Others of us have friends that have moved away and so we miss their company. That's where the social media come in. The social media are media created by those with which you converse whether in person or via online communities. Here are a few ways in which people wished me Happy Birthday Seesmic, recorded video messages Twitter: Direct messages and public @ messages. Facebook: many many wall posts, at least twenty to thirty. Also on status message SMS Instant messenger. Various websites sent a generic one. In other words whilst you're in the wrong country to celebrate with everyone, actually I was at 33,000 feet with three seats in the second row, on the right side of the aircraft with an aisle seat for take off and landing and a window seat to serve as an office window for the proofreading work I was doing. Anyway the point is it was a nice and easy way for friends of mine to show that they thought of me on my birthday. I was disappointed by the physical world reaction as I arrived in London, part of which was due to an early morning start and some work to finish that evening.

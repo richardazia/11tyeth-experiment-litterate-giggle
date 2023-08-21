@@ -1,8 +1,0 @@
----
-title: 'On living in a rural setting'
-date: Fri, 16 Feb 2007 16:31:29 +0000
-draft: false
-tags: ['Holidays', 'random', 'rural life', 'snowshoeing', 'sports', 'switzerland', 'travel']
----
-
-Switzerland is a land of mountains, rivers, and lakes. it's a great place for skiing, snowboarding, mountain biking, walking, and sailing. Those are all sports I've done. When I was several years younger we had a day's racketing: Racketting is walking with rackets attached to your feet across the trees up in the mountains. It's fun, although occasionally tiring sport. At one point we took a break for lunch. During this time a few of us were jumping over a young tree and someone was taking photographs. Within a period of weeks, one of those photographs was blown up to poster format and used in several shopping centres. it was also used for the cover of a local tourism magazine. The picture was of a younger me in a ski suit with rackets attached to my feet. Many people have seen that photograph and I was a cover boy for at least one issue of the local magazine. Recently that picture was in a shopping center much closer to where I live and we recuperated it. It's now sitting on my desk at home. I'm thinking about going raquetting if there's enough snow for it to be worthwhile. I haven't done that sport for many years and I think it'd be interesting. It's simple. No need to drive to where the snow is good, Thirty minutes and I'd be where I may be able to raquet. If there's snow that's what I may spend a few hours doing.

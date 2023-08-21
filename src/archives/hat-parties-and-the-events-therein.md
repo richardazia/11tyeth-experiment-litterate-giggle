@@ -1,8 +1,0 @@
----
-title: 'Hat Parties and the Events Therein'
-date: Sat, 10 Mar 2007 22:41:26 +0000
-draft: false
-tags: ['hat party', 'parties', 'random', 'university', 'weekends']
----
-
-Last night I went to a hat party and I enjoyed it. I found it amusing to look at all the hats, from pink cowboy to chimney sweep, snowboarding and even motorcycle helmets. The more excentric the hat the more amusing the person. House parties are interesting because it's a familiar event. We already know everyone that's there so there's no time wasted in trying to meet everyone for the first time. A simple hello will suffice in some cases and in others great conversations will fly off like water drops descending from Angel falls into a fine spray. That spray is the culmination of a hundred conversation. As it hits the plunge pool all of them merge into the pile of consumed conversations. Some wash up on a stone and will come back into our conscience but most will vanish. Photographs of parties are great. If you're in a bad mood, feel tired or are down then it shows and you're dissapointed. When you're smiling, relaxed and enjoying yourself though they're great. Some of these are "stolen", taken by a photographer who prefers spontaneity to the posed image. Occasionaly posed images are good too. Two weekends, two very different events, one in a London nightclub, the other a few minutes walk from home. Both will leave enjoyable memories. Tonight I shall rest, content with the way Friday night progressed.

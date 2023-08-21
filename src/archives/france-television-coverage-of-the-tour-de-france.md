@@ -1,8 +1,0 @@
----
-title: 'France TÃ©lÃ©vision Coverage of the Tour De France'
-date: Wed, 15 Jul 2015 12:28:05 +0000
-draft: false
-tags: ['cycling', 'cycling', 'summer holidays', 'TDF', 'tour de france', 'travel']
----
-
-The Tour De France is a 3600 kilometre race over 3 weeks with one independent race each day. They start in an international city and then make their way to France within two or three days. The programmes are built around three specific shows. There is the pre-show Village programme followed by the first part of the race before the depart until well after it. The last segment is moved to France 2 for peak viewing and audience. During the first of these programmes you learn about the city the tour de France is leaving. You get artist interviews, food preparation and other small animations. During the second programme, the first part of the race you see the cyclists and the landmarks and places worthy of note. You get landscape shots of the countryside, aerial shots of castles and learn about where they are cycling for future tourist visits should you be in one part of France or the other. You also get to see the cycling. Today they're cycling through the PyrenÃ©es so you will see the cyclists face the challenge of climbs at the same time as working on making their endurance last long enough. There are a lot of sports on television but very few of them have the intensity and landscape of cycling. Tennis is in a court, Football is in a stadium, golf is in a park. Only Cycling provides television audiences with a journey, a voyage. I love this voyage and love the "French Landscape programme" as I like to call it, for this very reason.

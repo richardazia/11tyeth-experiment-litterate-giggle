@@ -1,8 +1,0 @@
----
-title: 'Prison Architect Game Play videos fill a niche.'
-date: Wed, 24 Aug 2016 15:12:38 +0000
-draft: false
-tags: ['gameplay', 'prison architect', 'reviews', 'youtube']
----
-
-I sometimes envy people who produce gameplay videos because the barrier to entry is so low. In theory all you need is a microphone, a gaming PC or console, a capture card and the ability to talk without being asked questions. In essence you are providing an interior monologue whilst staring at a screen and playing a game. Prison Architect Game Play are an example of this trend. The purpose of this game is to plan and then build a prison. You make sure that you stick within the budget, that the prison is clean and that you make enough money to survive and possibly even thrive. As you build one prison you can then sell it and keep the money to build a new prison. Some game play videos are interesting because you discover a story at the same time as the person whom you are watching play the game. In other cases you watch people build parks or prisons and you get to live their experiences through the video. It brings us back to our youth when we watched our siblings play computer games. In this case though, the game player can have from two hundred thousand to four million people watch their videos. On youtube these videos are monetised but I have not researched how much they make but view. I also noticed that if you watch these videos via Chromecast you do not see any of the adverts so I question how they monetise these videos when they are viewed on a television.

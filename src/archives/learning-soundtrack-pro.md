@@ -1,8 +1,0 @@
----
-title: 'Learning Soundtrack Pro'
-date: Tue, 17 Jul 2007 21:39:00 +0000
-draft: false
-tags: ['editing', 'fun', 'ibook', 'mac book pro', 'Post-university life', 'projects', 'Soundtrack Pro', 'video production']
----
-
-During my second year at university with some friends, we worked on a zombie film where my friend was a director and I was Lighting Camera Operator and editor. As a result of this, we had almost total control of the film and it was a great learning experience. Several weeks were spent preparing the script, finding actors, and testing different types of makeup. As a result of this, I was in a pub dressed as a zombie. The shooting went well and so did the editing but I committed one stupid mistake. I  didn't leave the sound loud enough, as a result of which it's hard to hear what's happening. At the time of editing, I had worked in a number of stages from rough cut to cleaner cut to fine cut and sound engineering. At some points, there are eleven tracks of sound to be taken care of. It's taken several months but I finally have the time to re-work the project. I've got the project file in at least one or two places on my iBook and once I get to London I'm going to transfer it over to the Macbook pro. That's when the fun will start. I'm going to getting al the clips back online and export the video to soundtrack pro and that's the point at which I will attempt to learn the software well enough to re-work sound once the other stages are finished. I'm looking forward to that stage because both my friend and I have been talking about re-working the sound on that short film for at least a year by now. Finally, I have the time and the resources to get on with it.

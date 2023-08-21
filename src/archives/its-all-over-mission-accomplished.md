@@ -1,8 +1,0 @@
----
-title: 'It''s All Over - Mission Accomplished'
-date: Sat, 02 Jun 2007 09:22:07 +0000
-draft: false
-tags: ['bar', 'end of studies', 'final day', 'Holidays', 'Post-university life', 'socialising', 'university']
----
-
-Checking through my pockets this morning I found that £30 are still there in cash. That's quite surprising when you take into account that last night's mission was to drink the bar dry. Obviously I did not contribute to this as greatly as was initially anticipated. It was another night of relative madness. It was a night that involved getting to the bar around four or five in the afternoon and chatting to many people and listening to many others. It was a night where people trickled in until it closed at 3 am. During this time sambuca shots were drunk, people partied and others argued. The fire was the final part of the night. At this point, I was in bed for the second time that morning sleeping my way into today. They got the police to come to the fire and one person was even taken by car around the building and released. This was simply to scare everyone into behaving themselves. It was probably amusing to see all the conspiratorial drunks spreading rumours and insults at this point. The wake-up call was quite original today, a fire alarm. The last halls fire alarm I will ever hear and I can honestly say it's not going to be missed in any way shape or form. To all those whom I partied with over the past three years, it's been both a pleasure and an honour. See you around.

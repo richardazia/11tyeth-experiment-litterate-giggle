@@ -1,8 +1,0 @@
----
-title: 'Fribourg was liberated by Fribourg, Lausanne and Geneva Ingress resistance fighters'
-date: Mon, 20 Jul 2015 10:14:25 +0000
-draft: false
-tags: ['cycling', 'cycling', 'fribourg', 'ingress', 'ingress', 'social networking', 'travel']
----
-
-This weekend teams of Resistance Ingress agents from Fribourg, Lausanne and Geneva met in Fribourg to neutralise and capture all Enlightened portals. Some teams were on foot to liberate portals from the centre of the city. I was with the bike team and we took care of liberating all of the portals on the outskirts. It involved cycling up and down hills, a thunderstorm and being rained on. I really enjoyed being part of the cycling team. It's a fantastic way to get around and it's a good way of seeing a big portion of unfamiliar cities with a minimum of effort. My team members were on electric bikes and I was on a mountain bike. This was great for me. I had to work hard to keep up with them. This was a good workout. There were moments where I generated up to an estimated 1300 watts of power for very short bursts and got the fifth best time on a segment. I enjoyed this experience so much that I would love to do this again in other cities around here. Cycling gave me a workout and playing Ingress gave me time to recover. It seems that if you're creating fields having a bike is ideal. You can get almost anywhere from anywhere within a city within minutes with a minimum of effort. By car this would be dangerous and impractical and on foot it would be slow and impractical.

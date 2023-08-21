@@ -1,8 +1,0 @@
----
-title: 'Guided by the NÃ¼vi 250'
-date: Wed, 05 Mar 2008 10:42:29 +0000
-draft: false
-tags: ['Garmin', 'NÃ¼vi 250', 'roadtrip', 'tech related', 'traffic']
----
-
-Finding your way around London is hard and after seven or more hours of driving across France from Geneva it can be a little daunting. That's why I decided to use the Garmin NÃ¼vi 250 to help me. It's a small pocketable driving GPS that's easy and intuitive to use. That's important when you're on the road.Â It's got a small display and there are two main functions. Where do you want to go and the map. The map is either 3d or 2d depending on your preference. With the unit I bought you have 22 European countries including France, England and Switzerland. Those are the three countries I would travel through.Â The navigation is easy to setup. Select your destination and it will quickly trace a route of where to go. You have the ability to review the points one by one or trust the GPS to get you where you want to go.Â It's got a battery life of 5hrs but included with the unit is the car adaptor so that you can power it during the trip.Easy to use and a great driving aid. It made driving through London a relaxed, stress free experience, at least on the way in. On the way out there were traffic jams which this unit did not warn me about.Â It's a nice unit, not too expensive but frees up your mind for other things than trying to find your way. It's a great little help.Â

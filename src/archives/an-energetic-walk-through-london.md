@@ -1,8 +1,0 @@
----
-title: 'An Energetic Walk Through London'
-date: Sat, 05 May 2007 15:51:45 +0000
-draft: false
-tags: ['central london', 'London', 'London walk', 'London walks', 'university']
----
-
-Today is a day of rest for me. I caught the tube into central London and went for a nice hour long walk through the center of London. Starting from Oxford tube station I walked through the throngs of people, dodging them and trying to fray the quickest path through them as possible without having to cut down on speed. I passed by Pall Mall and the Cabinet War rooms before walking along the South Bank where all the entertainers were Masses of people were queing for the London eye whilst others were eating at Wagamama, strada and other restaurants. I passed the Tate Modern and saw the guy with the birds, not a pimp, the reptiles that evolved into feathered creatures. He was there with his public. I pased by a few beggers, some looking worse than others. There was an opera singing girl under one arch and that did make a change, a nice one. Tired of always seeing the modern artists so seeing a more classical application is more interesting. I didn't stop, and didn't hear. I was listening to the i-pod. I passed by more objects before finally getting to London Bridge. By then I was getting tired, after all when I got down to the tube I had been walking for an hour at my cruising speed, above 8km/H. Think I covered quite a nice distance and saw many sights. Now I'm content, sitting in my room and I saw that the Digg word stock I bought on trendio went up by 7 points and s

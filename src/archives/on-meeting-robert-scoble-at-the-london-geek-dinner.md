@@ -1,8 +1,0 @@
----
-title: 'On meeting Robert Scoble at the London Geek Dinner'
-date: Sat, 08 Dec 2007 02:21:43 +0000
-draft: false
-tags: ['December', 'geekdinner', 'London', 'London walks', 'loudmouthman', 'photowalk', 'Scoble', 'social media', 'social media', 'social networking', 'tech related', 'twitter', 'warzabidul']
----
-
-This afternoon Nik Butler, Loudmouthman sent me a text message asking whether I was free to go to the London Geek Dinner where Robert Scoble would appear. Of course I was free so I decided to go to the event and met a number of people. The first person I met was Robert Scoble for this particular event. He was standing at the door and as I came up he welcomed me into the room, we shook hands and I got his business card. That was quite unexpected, so approachable. I spent some time talking with Loudmouthman, Michael Beddows, Liz Strauss and Giles Thomas. The London Photowalk itself saw us walk from The Geekdinner venue down towards Southbank and the film cafe. It's the first time I went to the bar and I've been living in London for over three years now. It's amusing to see how many photographs were taken and videos recorded. It was the photographer photographing the photographer. Scoble interviewed people as we were walking down the street and others were filming the filming. I enjoyed the evening and meeting Scoble. For a while I nicked his video camera and filmed some shots of London for him. One of those shots was the Midnight ring of Big Ben. That's about it for tonight. [Â Video 1](http://www.youtube.com/watch?v=2FS2xVofAAM) [Video 2](http://www.youtube.com/watch?v=pmq0euOWAao) [Video 3](http://www.youtube.com/watch?v=vpwESnSEwQs)

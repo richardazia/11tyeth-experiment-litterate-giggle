@@ -1,8 +1,0 @@
----
-title: 'Via Ferrata du Diable - Aussois'
-date: Tue, 22 Sep 2015 16:13:06 +0000
-draft: false
-tags: ['travel', 'Uncategorized', 'Via Ferrata']
----
-
-The [BarriÃ¨re de l'Esseillon](https://fr.wikipedia.org/wiki/Barri%C3%A8re_de_l%27Esseillon)Â are a line of fortifications two hundred years old and capable of holding two thousand soldiers in total.The fort Victor-Emmanuel is still standing and in it's day could hold up to one thousand five hundred troops. This fort overlooks the via Ferrata. Some drone shots of the region in winter The [Via Ferata du Diable](http://www.viaferrata.com/index.php/fr/23-via-ferrata-en-france/77-13-via-ferrata-du-diable-aussois-savoie-france.html) is a series of via ferrata routes located around a bridge called Le Pont du Diable (Bridge of the Devil) which crosses the river L'arc (The Bow). This set of via ferrata varies from two easier ones that are suitable for children to four via ferrata that are suitable for various skill levels as long as you are not afraid of heights. The last one is going to challenge your courage and stamina because it is high off the ground and there are overhangs. The via ferrata are numbered so if you do them then do 6 followed by 3, then walk back and do four and five so that you complete a loop without back tracking. If you want to do the seventh then be ready to be high off the valley floor, to cross a monkey bridge, a nepalese bridge and a more conventional final bridge. There is an escape route but by this point you might as well finish the via ferrata and walk back. \[gallery columns="4" ids="2573,2574,2575,2576,2577,2578,2579,2580,2581,2582,2583,2586,2587,2588,2589,2590,2591,2592,2593,2594,2595,2596,2597,2598,2599,2600"\]

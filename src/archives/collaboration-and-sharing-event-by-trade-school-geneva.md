@@ -1,8 +1,0 @@
----
-title: 'Collaboration and sharing event by Trade School Geneva'
-date: Wed, 19 Feb 2014 17:12:47 +0000
-draft: true
-tags: ['collaboration', 'Geneva']
----
-
-When I was in London I went to events at least once a week. Tuttle was he friday Morning usual and I went to other events at other times of the week. Over the last three weeks I have been to a few Geneva events. I went to the event on the 6th of February where I met people who were mainly thinking of starting their own projects but were not ready to make the leap quite yet. It allowed me to see how my own situation has progressed over the last few years, from thinking of going independent to making the leap and surviving the first year and reaching the break even point. Last week I went to the event mainly to meet someone I had spent years tweeting and exchanging messages with on facebook. As I was free I took the opportunity. In so doing I met a few people I already knew and met some new people. Last night I went to the event just a few minutes from where I work. I went to the event because I saw the word documentary. The event was interesting. presented a new community building project for Geneva based on Maori and New Zealand ideas, presented a number of projects they have organised in Geneva, including the pianos in the street project, the cinÃ©transat project as well as other projects. presented their experimental project.

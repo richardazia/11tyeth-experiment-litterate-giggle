@@ -1,8 +1,0 @@
----
-title: 'Why people going to the graduation are enjoying a farce'
-date: Tue, 06 Nov 2007 08:36:05 +0000
-draft: false
-tags: ['Post-university life']
----
-
-If I came from a prestigious university like Cambridge, Oxford or many others were the university is steeped in century old traditions then I would feel a great inclination to go to my graduation. As things stand I don't feel any need. Everyone else would go to lectures and leave as soon as they could, same with practical work. As a result there was never that great university feeling from those on my course. Also it's a polytechnic. If at least six students in my graduating class had bothered to come then I would have been inclined to go to the graduation. As things stand I'm going to think of my personal student graduation into the professional world as the documentary screening at the Pompidou centre where my name appeared on screen for the first time in front of professionals as my real graduation. In a parallel thread going to the SU was great. It was nice to meet so many friends from the past who were happy to see and chat with me. That's what university was about for me. Going to the bar ad having fifteen people with whom to chat, and to meet new people. I've always enjoyed the social side of being a student and that's probably what I miss most. It took a lot of time to generate that level of familiarity and there is a good chance that I will get that many friends in one place very often.

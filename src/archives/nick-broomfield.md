@@ -1,8 +1,0 @@
----
-title: 'Nick Broomfield'
-date: Mon, 30 Oct 2006 01:21:28 +0000
-draft: false
-tags: ['academic', 'documentaries', 'Documentary', 'Nick Broomfield', 'studies', 'university']
----
-
-Yesterday I bought a series of six of Broomfield's documentaries and I watched one of them today. Chicken Ranch is interesting because Broomfield lets the camera appear in shot, through mirrors and more. He also allows himself to appear, although only fleetingly, at least in this documentary. He makes observational documentaries and allows the viewer to come to his own conclusions. This is a style of documentary where the action happens in front of the camera, with no use of voice over. Intertitles are enough, similarly to people like Vertov. They are interesting documentaries because you can see that they have not been scripted. they document life, becoming more biographical and reflective of reality. They do not strive to tell you what to think but rather encourage you to see and intuit from them. How many documentaries do you watch that breath, that do not tell you what to think? Most attempt to say "he believes that" whilst "they believe that". This is a more mature form of documentary making, one where the characters are the story. I still have another five documentaries to watch and we'll see what else I learn through watching them. I found another documentary book today. It's got many interviews with a variety of directors and I really hope that they help me understand the question that I want to ask and research without it being too broad.

@@ -1,8 +1,0 @@
----
-title: 'Ingress no more'
-date: Fri, 05 Feb 2016 12:23:20 +0000
-draft: false
-tags: ['ingress', 'ingress']
----
-
-[![Somewhere in Geneva](http://www.main-vision.com/richard/blog/wp-content/uploads/2016/02/DSC_0031-300x225.jpg)](http://www.main-vision.com/richard/blog/wp-content/uploads/2016/02/DSC_0031.jpg) For months I was passionate about Ingress. I was passionate about the game until fuel costs, parking costs, device costs and time costs were too high. When you play from level one to eight the game is fun. You progress quickly and you meet new people. You discover new places and it's enjoyable. As you reach level 8 and above the game becomes more like a chore. You have to walk hundreds of kilometres and you need to perform tens of thousands of actions to progress anymore. Every medal takes time. This time, when you drive from the countryside to a town or city is money. Imagine doing something different. Imagine writing or taking pictures. Imagine reading current affairs articles or donating time to an event or charity. Imagine what you could walk away with. Imagine what achievements you could tell people about. The biggest waste of time with the game of Ingress is farming. Farming in the game refers to hacking portals to get weapons, mods, shields and more. I find farming to be the most boring and tedious part of the game. You spend two or three hours farming and within twenty minutes your stock is empty. Imagine if you had used that time to go for an energetic bike ride.

@@ -1,8 +1,0 @@
----
-title: 'Two million members for the London Network on Facebook.'
-date: Tue, 08 Jan 2008 21:42:28 +0000
-draft: false
-tags: ['events', 'facebook', 'facebook london', 'regional', 'social network']
----
-
-There are now two million people who consider themselves to be part of the London network. It is currently the biggest network Facebook has to the best of my knowledge. I know it was the largest before and there's a good chance it has remained so. That's a lot of people. There are 117 events occuring just for today. There are almost a quarter of a million post on the group wall and the top three posted items are Clarkson's story about bank pranks, Israeli girls and a crash on the m40. Now what would encourage so many people to join this facebook network. Are they all immigrants or students, are they people who have friends in this city so they decided to become part of the network. What does it mean from a social point of view? As i've mentioned there are 117 events for today, 165 for tomorrow, 161 the day after and so on. Does this mean that as a person London living in London I could get everything I want and need socially via what the London network is telling me is going on? Would I be able to fill an entire day with activities via this network? It could be interesting to try it and see what happens. Are you part of the London network? 116 of my friends are listed as such. How about you and your friends?

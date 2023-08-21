@@ -1,8 +1,0 @@
----
-title: 'The twitter colour wars and sheep mentality'
-date: Sun, 23 Mar 2008 10:22:30 +0000
-draft: false
-tags: ['colour war', 'facebook', 'geocities', 'hotmail', 'team work', 'twitter', 'twitter']
----
-
-As if zombie slaying, vampire biting and sheep throwing weren't enough the facebook lunacy has reached Twitter via [Zefrank](http://www.twitter.com/zefrank) and the stupid colour wars. As if the conversation was not interesting and fulfilling enough for twitter users there is now a movement to create a colour war encouraging people to split into groups. I dislike this movement for a number of reasons. For a start it's a complete waste of time because it does not require people to do anything in the physical world. Just change your avatar and you've participated. That's similar to the zombie wars. As a second point it's encouraging people to break into smaller clusters and groups, which although fun in certain situations where groups are too big is pointless on twitter. In particular I saw that for one colour the point was not to tweet but rather be tweeted at. Now why would you ask for people to remain silent when the whole reason behind twitter is status updates, firstly and conversations as a side effect of the first. When few people used [hotmail](http://www.hotmail.com) it was clean and e-mails were worth reading but as chain letters arrived so the usability went down. When [geocities](http://www.geocities.com) became popular so pages became flooded with junk, same with [myspace](http://www.myspace.com) and later [facebook](http://www.facebook.com). I really don't want to see this junk making its way into the twitter stream. I spend too much time there to appreciate it. That's why I won't participate.

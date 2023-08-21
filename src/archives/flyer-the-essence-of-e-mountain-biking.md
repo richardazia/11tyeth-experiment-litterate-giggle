@@ -1,8 +1,0 @@
----
-title: 'FLYER THE ESSENCE OF E MOUNTAIN BIKING'
-date: Fri, 19 Jun 2015 08:13:40 +0000
-draft: false
-tags: ['flyer', 'mountain bike', 'short film', 'Switzerland', 'Uncategorized', 'Video', 'youtube']
----
-
-  Mountain biking is a sport that is growing in popularity. We see that technology is keeping up with the riders. Between suspension, specialist tires and safety equipment the sport has had the freedom to become more adventurous. Bigger jumps, more travel, stronger components all allow the sport to become more extreme. Usually there are three ways to get to the top of a mountain. The first option is to ride up but with a mountain bike that can be tiring. I have an area where I can mountain bike near home but it's a 12.7km ride up with a 10 percent grade. It takes two hours to get to the base. I could of course take the car up and cycle around at the top but this requires removing the front wheel and putting the seats down. Another option is to head to specialist resorts where the remontÃ©e mÃ©canique are equipped to take bikes to the top of the slope. The third option is to walk up and push the bike. In this video we see a fourth option. An electric mountain bike. I like the idea of mountain biking this way. I like the notion that the mountain bike will assist with getting up the hill more efficiently. Several times I have cycled up a 10% gradiant for a distance of 12.7 kilometres. With the mountain bike I use it takes 2 hours of almost non stop pedalling. It leaves me with little energy to enjoy going off road at the top. With a flyer I'd let the bike get me to the fun part and then use my own power to play up there. I won't buy one of these bikes but the video is interesting to watch.

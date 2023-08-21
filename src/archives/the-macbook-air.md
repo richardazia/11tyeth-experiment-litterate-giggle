@@ -1,8 +1,0 @@
----
-title: 'The Macbook Air'
-date: Tue, 15 Jan 2008 19:18:59 +0000
-draft: false
-tags: ['Apple', 'Macbook air', 'observation', 'reviews']
----
-
-I really wanted a small device mid way between the ipod touch and the macbook but Apple have decided to come out with a thin rather than small device with five hours of battery life and a solid state drive. These are great features but the device is so incredibly limited that it's not interesting for me. I've got a macbook pro and it's a great machine for anyone that wants to do video editing. I've also got an ipod touch which is great for twittering and keeping up to date with current affairs. One of these devices is great for computing, the other is great for browsing. What I wanted is a small machine that's easy to carry, along the lines of the powerbook but I'll have to wait a little longer. The key limitations I see with this device are the need for an external optical drive, only one USB port and a phone jack. That's great for business men who travel a lot but what about the rest of us. If you plug in the USB drive how are you going to plug in anything else. If you're like me you charge your ipod and your phone from the laptop because it's convenient. The price is also prohibitive. It's a luxury product that doesn't fill any new market niche. Let's wait and see for new devices. I will drop by the apple store and play with it of course and give you a hands on review.

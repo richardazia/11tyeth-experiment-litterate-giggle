@@ -1,8 +1,0 @@
----
-title: 'First thoughts'
-date: Mon, 09 Apr 2007 11:00:04 +0000
-draft: false
-tags: ['dissertation', 'Holidays', 'media studies', 'procrastinating', 'progress', 'studies', 'university', 'word goal']
----
-
-You know you're a final year student when the last thing you think about before going to sleep is your dissertation. It's also the first thing you wake up thinking of and to make matters worse you notice that a friend has joined a group called "my dissertation is driving me crazy, just to make you feel that much better. It's not that I'm doing particularly badly, after all, I've done all the research I wanted to do in relation to the topic I'm writing about and I am progressing. I just wish it wasn't so important in relation to all the other work I've done. It's over in a month. That's when I can finally relax and enjoy the real world again. How many university students a year write dissertations? At least thirty to fourty thousand I'd guess. How many enjoy it, probably quite a few. I enjoy it but it would be nicer if the purpose was to create more content for a website than to be assessed by a lecturer. I'm going to work on adding at least another 2000 words today, get it to five thousand words today. That'd mean I'm halfway to completion and it will be a really nice feeling. Now it's time to stop procrastinating and do something more productive. No holidays for anyone so close to the dissertation deadline.

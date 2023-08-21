@@ -1,8 +1,0 @@
----
-title: 'Reading versus Videos'
-date: Fri, 16 Mar 2007 12:31:20 +0000
-draft: false
-tags: ['mobuzztv', 'random', 'reading', 'Video']
----
-
-When I'm online I love reading. I read articles everyday. I see what people are doing. I see what's happening in the world through text. When I see some information that may be of interest to me in video form I'm lazy. I hardly ever bother watching that video. I'd much prefer to have the text version. I've often watched mobuzztv and Iused to enjoy watching the videos but recently I find myself watching them less and less, probably in part due to bandwidth constraints. I especially avoid watching certain types of interviews because they're dull. The interviewer has a bad technique and there's no editing. I don't want to hear someone talk for three minutes for something that can be summarised into one sentence. It's a shame that video bloggers have not yet learned how to conduct proper interviews. An interview should be well researched, both material wise, knowing what the person knows about the topic and then charisma wise. Get an interesting subject but unresearched and the questions won't give good information. Get a poor speaker and there's a good chance the audience will lose interest and stop listening. get some cut aways and illustrate what the person is saying. Talking heads are boring. Finally avoid being arrogant, don't gloat because you've got an interview with someone most people have never heard of or care about.

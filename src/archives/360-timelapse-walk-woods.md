@@ -1,8 +1,0 @@
----
-title: 'A 360 timelapse walk through the woods'
-date: Wed, 22 Jun 2016 11:30:00 +0000
-draft: false
-tags: ['summer holidays', 'Swiss walks', 'Switzerland', 'travel']
----
-
-Yesterday I went for a 360 timelapse walkÂ throughÂ the woods above Trelex. I set the camera to take an image every 8 seconds. As the woods were dark and dense it took some effort not to walk in too much mud and not to slip too many times. The result of the timelapse is not as good as I had hoped. Ideally I want to find a way to fix the camera so that it looks at my direction of travel. From this footage you see that the camera suffered with the lack of light and that because the camera occasionally rotated to the right it is easy to become disorientated. It is for this reason that it is useful to find wide open spaces when possible and to find places with a lot of ambient light. What I like about this video is that we can see the various exercise locations. We can see the horizontal bars, the rings and other activities. When I design something to hold the camera steady while I walk with it I can have a little more fun. I could hang on the rings or play with the bars. With a little luck the month and a half of bad weather is coming to an end and I will be able to go out and get to some interesting locations to film some time lapses. There are a number of panoramic locations that I think would lend themselves well to 360Â° views. Imagine a walk by the lake side or a walk near the summit with a view of the landscape below. What locations or sites would you like to see as 360Â° timelapse videos?

@@ -1,8 +1,0 @@
----
-title: 'The Tichodrome Via Ferrata behind Neuchatel is not for beginners'
-date: Mon, 31 Aug 2015 07:04:21 +0000
-draft: false
-tags: ['Via Ferrata']
----
-
-The Tichodrome Via Ferrata near the Creux du Van is not a via Ferrata for beginners. Yesterday I went with a group of people and it took two and a half hours rather than the one and a half hours that it was meant to take. There are two principal reasons for which this is not a via ferrata for beginners. The first reason is that it is high off the ground. Not only are you high off the ground but you start near the cliff. Confirmed Via Ferrataists and rock climbers will see this height and it won't worry them but novices who are not acclimatised to such heights will be getting to grips of being so high. Imagine trusting yourself and your equipment so high off the ground. The second flaw is that it is poorly equipped. There are very few hand holds and foot holds on this via ferrata. Most of the time your feet are on bare rock where feet can slip and where there is barely enough for more than your toes or a side of your shoe. As a result there are chances that a foot slides every now and again. The third challenge is the cable. It is lose so when you put weight on it it swings out. Imagine as a beginner trusting the cable to hold you whilst standing a fair distance off of the ground. This is a terrifying via ferrata for less experienced praticitioners and I strongly advise you not to go until your less experienced friends have done a few more via ferrata. The fear factor for this via ferrata is an excellent warm up for Leukerbad. That's a demonstration of how unadapted I think this via ferrata is for beginners.

@@ -1,8 +1,0 @@
----
-title: 'Critical Mass in Geneva'
-date: Tue, 26 Jul 2016 15:37:03 +0000
-draft: false
-tags: ['critical mass', 'critical mass geneva', 'cycling', 'cycling']
----
-
-For those who like to cycle in a group of people there is a [critical mass event](https://www.facebook.com/events/960907357351052/) organised for the 29th of August from 1830 onwards in Geneva. The meeting point is the Ã®le Rousseau. From there they will cycle around the city of Geneva. At the moment of writing this post the weather is meant to be good with sun and 29Â°c. When I cycled with a group of people in London I had fun. I found that the city of London was much smaller than I had thought. If you don't know a city it is an opportunity to discover new cycling routes and if you do know the city it is an opportunity to meet new people. The group cycles at a speed that is comfortable for everyone. Those who are confident have time to stop and take pictures or place ingress and Pokemon Go and those who are not as fast are not abandoned. Although not a critical mass bike ride when I met with a group to cycle in Geneva we travelled about 40km. The advantage that I have when I cycle in and around Geneva is that the landscape is flat compared to where I cycle in the countryside. Geneva has bike and bus lanes in the centre and when you get out of the centre you have cycle paths that are separate from road traffic and pedestrian traffic. When youn get to the Geneva countryside the roads are relatively quiet so you do not have to worry about cycling in traffic. There is a [critical mass cycling app](https://www.facebook.com/cmapplication/?fref=nf) to make finding the group easier if you meet the group after it has started cycling.

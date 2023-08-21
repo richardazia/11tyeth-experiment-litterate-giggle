@@ -1,8 +1,0 @@
----
-title: 'As Long as There Are No Clouds'
-date: Sat, 03 Mar 2007 01:04:05 +0000
-draft: false
-tags: ['clouds', 'random', 'sun', 'total eclipse', 'Uncategorized']
----
-
-In less than twenty four hours there will be a total eclipse of the sun that will give us a red moon and this should be interesting to see. Back in 1999 I was in Salzburg for the total eclipse of the sun by the moon. I was almost within the area of totality. It was over 99%. There is nothing like a total eclipse of the sun. At the start you see hundreds of people go into the square and look up at the sky. You see the moon eating up the sun. Over time you see that more than half is eaten. Then you see three quarters and you approach totality. At the time I wasen't spending too much time looking at the process as I was looking for shots for the video. I climbed up the road to the castle and turned around. As I did so I saw all the birds fly away and I saw a grey shadow racing across the landscape. Hundreds of flashes started going off and people started to make noise in excitement. Totality was here. The light was grey, with no depth, then it was night. As it was night I looked up and saw the corona that forms, where the solar flares are twelve kilometers long, visible because the sun's main mass is blocked by the moon. Totality is over within a few seconds and day comes back. Many people have enjoyed this event. It'll be another century for most people to see the next one. That's why I want to see the red moon, that's why I'd prefer seeing a silver ball turn reddish. That red is formed by the refraction of sun in the earth's atmosphere being sent to the moon and bouncing back to give us a splendid sight, as long as there are no clouds

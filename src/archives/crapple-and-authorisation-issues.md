@@ -1,8 +1,0 @@
----
-title: '(CR)apple and authorisation issues.'
-date: Fri, 11 Sep 2009 07:14:37 +0000
-draft: false
-tags: ['Apple', 'authorisation issues.', 'linux', 'Uncategorized']
----
-
-No doubt you remember that my laptop motherboard died. The effects are still being felt today. When you have applications, and when you have several computers you authorise them in order to have access to the same applications and music on more than one machine. This works fine most of the time. You can easily authorise and de-authorise a machine depending on necessity. The problem is when you have hardware failure though. As hardware fails so the device number changes. Itunes thinks it's on a new machine and all the permissions are gone. That's the problem I'm having. Over 129 applications have just been removed from the ipod touch as a result of having five machines authorised with my itunes account. There's not much I can do to change this situation. What I love about this situation is that it's another reason not to use an iphone. Why would I buy a device which relies on another device in order to function. If the N97 crashes I don't need to rely on this computer to sync things, if my n95 crashes same lack of concern. Same with the e51 and other devices. With anything apple though as soon as five machines are authorised if you have a hardware failure you're stuck. Apple have to resolve this issue because everyone has access to more than five apple computers, either through friends or through machines of their own. If I need to use a wifi connection to sync my ipod then I might as well have any generic device. I am one step closer to going back to using Linux for personal computing, windows for work and apple for nothing but editing.

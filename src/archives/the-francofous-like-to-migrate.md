@@ -1,8 +1,0 @@
----
-title: 'The Francofous like to migrate'
-date: Thu, 09 Oct 2008 19:56:16 +0000
-draft: false
-tags: ['francofous', 'observation', 'seesmic', 'social media']
----
-
-The Francofous are part of the seesmic community and can be differentiated by their ability to speak french and their avatars. Originally formed around Seesmic and twitter they are now migrating to both plurk and phreadz, two services I have talked about in the past. What is nice about this community is that it's a core of 20-30 early adopters who move and try new communities as a group rather than individuals. What this means is that whereas in previous years we would jump from one community to another, start without knowing anyone and over weeks and months get to know people here we have a core of people moving with the times. Of course I speak about the Francofous this way but they're not the only ones. Many of my English and international social media friends are doing the same thing, moving from one fesh community to another to see what the strengths and weaknesses are. They're also testing out the sites, seeing what works and what doesn't. They're illustrating how many of you will use these sites once the barriers to entry have come down. There's another factor that's important to take into consideration. Those who are early adopters are used to using twenty to thirty sites several times a day from google reader to plurk, to seesmic, to phreadz to gmail to flickr, youtube, dailymotion, vimeo and many more. At the same time most of my university friends are happy with facebook and gmail. They're lucky, everything they want can be found in one place ;-). How far are these communities from the mass of mid to late adopters? Quite a few months to a year ahead of the pack.

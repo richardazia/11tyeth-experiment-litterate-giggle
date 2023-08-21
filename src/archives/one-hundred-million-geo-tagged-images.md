@@ -1,8 +1,0 @@
----
-title: 'One Hundred Million Geo-Tagged Images'
-date: Fri, 06 Feb 2009 00:18:23 +0000
-draft: false
-tags: ['flickr', 'geo-tagging', 'mobile']
----
-
-One Hundred Million is the number of photographs geotagged on flickr. That's an impressive number. There's an [article about the news here](http://blog.flickr.net/en/2009/02/05/100000000-geotagged-photos-plus/) but I want to explore the fun side of things. Whenever I take photographs with my mobile phone they're geo tagged so where ever I am in the world I can pinpoint within five to twenty meters where it's been taken. As a result if I go for a walk every day for a year I can take pictures of the different seasons and how the landscape changes, from snow to spring to summer and more. It also means that when you're going on holiday to some of the top tourist destinations you can find all the images taken around there and see the area before you arrive, scouting out where you would particularly like to go. It's also a way of keeping your own record. We've all heard that sentence, "hey that's a great picture, where did you take it" but the photographer never remembers. Now there's no worry. You've automatically kept track. Listening to a recent "This Week in Tech I heard mention of GPS units that are smaller than a nail, meaning that they could be put into all devices by default. Whether you share that information is entirely up to you, as is clear in flickr. I'm looking forward to more geo-cached images of the area around which I live, then when you're tracking me with latitude and I upload images to flickr they are automatically placed on the map in real time.

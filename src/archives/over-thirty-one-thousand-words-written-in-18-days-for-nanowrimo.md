@@ -1,8 +1,0 @@
----
-title: 'Over thirty one thousand Words written in 18 days for Nanowrimo'
-date: Tue, 18 Nov 2008 16:34:56 +0000
-draft: false
-tags: ['Nanowrimo', 'Nanowrimo']
----
-
-[![](http://www.main-vision.com/richard/blog/wp-content/uploads/2008/11/picture-6.png "Progression")](http://www.main-vision.com/richard/blog/wp-content/uploads/2008/11/picture-6.png) With just under two weeks of writing left for Nanowrimo I have reached over 31,000 words in that space of time. That's an average of 1750 words a day. It's been a good experience so far and its now that I'm starting to worry about the proofreading part. It takes long enough to proofread an essay or dissertation, let alone 50,000 words from a document such as this one. I did feel good about reaching those 30,000 words. The chapters have grown in length and I have experimented with dialogue. I have started to think about narrative in more detail and I know that there are a few things that I would do differently. There is one thing that surprises me. Whilst a lot of people are aiming to write for Nanowrimo most of them are slightly behind the word per day count. Some are really behind. I read that last year 15% of those that took up the challenge did not complete the task. I wonder what the percentage is this year, and how many have participated. We'll see how it feels when I hit at least 50,000 words. How will I celebrate getting that far into writing a story? Not long left anyway.

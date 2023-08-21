@@ -1,8 +1,0 @@
----
-title: 'Canyoning and a new camera'
-date: Wed, 21 Jul 2010 18:27:39 +0000
-draft: false
-tags: ['Camera', 'canyoning', 'observation', 'olympus', 'reviews', 'stylus', 'tech related', 'waterproof']
----
-
-On Saturday I went canyoning, or as you Americans would call it Canyoneering and the adventure was fun. You suit up in 30Â°C heat and walk for fifteen minutes through a mountain path before going down to the river and jumping from pool to pool. The natural cooling effect of the water is welcome. As you go down the river so you get opportunities to jump from a variety of heights, from 7 meters to 11 meters. Land the wrong way and your palms may hurt. That's not actually the point of this post. The point of this post is to speak about how much fun it is to spend your time going down a river in such a fun and relaxing manner. The drawback is that most cameras are not waterproof. The Nexus one mobile phone for example would be afraid. You may regret bringing it along. That's why I have a new photo camera. It's the Olympus Stylus Tough 8010. It's a small drop proof waterproof camera rated to 10 meters below the surface. That means I can jump from 11 meters with it in my clothing and it should survive for me to take pictures of the next people jumping down. In a little over a week I'll be playing with this camera during a rafting trip so I'll upload the pictures at that point, if i don't end up in the lake before then. I'll leave you with a test gallery of pictures taken with the new camera. \[flickr-gallery mode="photoset" photoset="72157624545521618"\]

@@ -1,8 +1,0 @@
----
-title: 'La Grande Illusion des Quatre Cents Coups'
-date: Fri, 24 Nov 2006 19:48:37 +0000
-draft: false
-tags: ['Film', 'multicamera production', 'studies', 'university', 'university']
----
-
-C'est deux films que je vient de regarder. I'm watching a lot of DVDs at the moment. I have neither television nor a fast connection, therefore, I take advantage to study the cinema. It's a good way of spending time, of being transported into other timezones, towards other cities I constantly find more information as the days' progress Only a few more days till my group's multicamera and I'll be busy every day until the end of the week. On the positive side, I haven't been to the student bar to socialise. I have busied myself with work instead and my productivity has gone up. I no longer see the appeal of going to a bar or nightclub where there are three or four people checking for trouble makers. Where alcohol is served to intellectuals great conversations ensue, where it is served to the less enlightened there is nothing but "ruine de l'ame." Last night I dropped by the library and explored the index pages, looking for information on documents. I found something about Arte and the films it selects. I found a few articles about Chinese cinemas and tributes to Jean Rouch. I photocopied them and have yet to read through them and digest the information that they provide. I am getting closer and closer to the point at which I feel I can begin interviewing the relevant people as part of my research. That should be the best part of the work I'm doing at the moment. I want to try making an observational documentary again, exploring new ideas, and getting an insider's understanding of what I've been studying.

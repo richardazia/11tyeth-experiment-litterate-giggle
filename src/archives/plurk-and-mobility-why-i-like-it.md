@@ -1,8 +1,0 @@
----
-title: 'Plurk and mobility, why I like it.'
-date: Wed, 24 Sep 2008 11:49:42 +0000
-draft: false
-tags: ['Uncategorized']
----
-
-Plurk is one of the most interesting mobile "microblogging" tool available at the moment because of it's simple interface. Without the need for additional applications, expensive data packages and more you can follow the conversation of your contacts and friends in a way that neither jaiku nor twitter allow. If you're on your home network then jaiku is interesting because you download the messages. If you're travelling then twitter is semi useful to read messages whilst mobile. The biggest limitation with twitter is the api limit. Frequently I have found that I can't access the messages due to a 404 error. That's problematic. That's why I like plurk. It provides a simple front page where you can see all plurks. Select a plurk and you can read the responses and respond yourself. That's great because it means you can converse without putting your life on hold to keep the conversation going. What's particularly interesting is that there was a time when twitter was as advantageous as plurk for mobility but due to costs they were unable to provide the service anymore due to cost. Cost is an excuse for a lack of lateral thinking. By creating a good wap interface that can as easily be used as easily on an n95 as an ipod touch plurk have circumvented most of the cost problems and provided a service that just works. Of course their user base is much smaller and it's easier to deal with the requests. We'll see how things progress from here.

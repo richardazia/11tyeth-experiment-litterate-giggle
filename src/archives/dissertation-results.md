@@ -1,8 +1,0 @@
----
-title: 'Dissertation Results'
-date: Thu, 28 Jun 2007 17:41:37 +0000
-draft: false
-tags: ['dissertation results', 'Holidays', 'mac book pro', 'Post-university life', 'tech related', 'university']
----
-
-Today is a great day for a number of reasons. The first of these is that I woke up early, which means I slept enough. The second of these is that I dropped into university and was sad to see all those empty bedrooms, which shows there are some good memories from halls. The key to today was getting my dissertation grade. That's the reason I dropped by the uni. Tired of the anxiety and worry of grade results I heard from a friend that the results were there. I went and checked my grade and in the process saw quite a few others. One friend I traveled with got a 70 so I'm really happy for him, this being the top grade out of those I looked at. I found that I was in agreement with the feedback I got, mainly that I should have concentrated more on the socio-economic side. Part of the reason I didn't was that it was hard to find data on this topic. If I did the exercise again I would work harder on doing better. Another good piece of news is the following. My MacBook Pro and the software I ordered have been shipped and they should arrive around the 11th of June. I'm really happy and looking forward to this. It means I have a new toy professional tool to play study with. I dropped by the apple store and took advantage of the wifi at the apple store for a few instants and did the geek thing, watching a mediocre presentation of Imovie. I think I'll try to get to one or two more advanced shows, see what secrets I can pick up in the process.

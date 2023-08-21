@@ -1,8 +1,0 @@
----
-title: 'I''m A Martial Artist Typist.'
-date: Tue, 08 May 2007 23:51:28 +0000
-draft: false
-tags: ['laptop', 'random', 'tech related', 'touch typing', 'typing speed', 'university', 'wear']
----
-
-Sometimes you hear about writers and how they fall in love with their machines. I think I've begun to love my laptop. I've just spent an extraordinary amount of time writing so many words over such a period that the laptop has use marks. If you look at the trackpad you see that the right side is smoother. If you look at the keys they're also smooth with use. The space bar has smoothed out where I always press with my thumb. There's a dark mark where I rest both my hands when I'm typing. The monitor shows signs of degradation. The repetitive motion of the fingers has developed muscle reflexes that mean that as I sit in one place from which I see people walk by I can observe people and continue writing at the same time. In effect I've been touch typing for a year and every computer develops a certain amount of time for the reflex to be perfect. I'm a martial artist at the art of typing ;) Laptops are great because they become such a big part of your life. You use them every day, from the bad times to the good times, from nice locations to some of the worst. They're there whatever the weather. They've got all your music, all your photographs, possibly some of your video projects and more. They've also got all the software you need from day to day work practices. They're reflective of the person that uses them.

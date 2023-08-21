@@ -1,8 +1,0 @@
----
-title: 'Last night''s Social Media Club event'
-date: Fri, 16 Nov 2007 09:30:40 +0000
-draft: false
-tags: ['London', 'Social Media Club', 'social networking', 'tech related']
----
-
-Last night Hill & Knowlton organised a Social Media club event in central London to discuss a number of aspects surrounding blogging, marketing and PR. The Event started with a quick introduction to how certain bloggers have voiced their intense dislike of being pitched to by PR companies whilst others are more relaxed about the whole thing. A number of conversations took place as sub groups were split to discuss specific topics. The group I was in discussed Pull factors and how to encourage them to come to see your message, how to generate interest and take advantage of the social media and what they're good at. A few case examples were given and discussed by this group. People from a variety of PR firms joined in the conversation. Two key things that were talked about in the debrief to the whole group found that no one knows how to deal with the social media and that at this moment in time it is about experimentation to find what is most effective and with whom. Blogging and social media were seen as a hard thing to quantify because conversations don't have any concrete measurable effects until later. This led on to the point that at this moment in time it's a challenge to value how you are attempting to raise awareness of what the company would like people to know about. It was an interesting event and i hope to go many more of this type.

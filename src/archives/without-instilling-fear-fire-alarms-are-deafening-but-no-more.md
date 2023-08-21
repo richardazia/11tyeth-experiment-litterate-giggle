@@ -1,8 +1,0 @@
----
-title: 'Without Instilling Fear Fire Alarms Are deafening But No More.'
-date: Sat, 12 May 2007 04:58:28 +0000
-draft: false
-tags: ['fatigue', 'fire alarms', 'university']
----
-
-I'm suffering from complete apathy for fire alarms. I really hate them. I've been hearing idiots make noise till 3 am but thought that I could attempt sleeping. Wrong at 0340 AM there was noise, then for at least 20 minutes at four am. Now it's 5:52 and I'm awake but this time due to the ineffective fire alarm. I might go so far as to say pointless and potentially dangerous fire alarm. A fire alarm that makes you clasp your ears to dull the pain of how loud they are is going to prevent you from getting out of bed and to safety. A fire alarm is designed to instill fear, not pain. Fear makes you rush. This fire alarm just angers me and wonder which moron set it off this time. Rather than fire alarms, an outdated warning system should have flashing lights or a twitter-like system. It could say something like "Fire in block L", or "smoke detected in Block P" but unconfirmed as of yet. It could say "device fault".  It could also say "Fire in Kitchen" which did occur two days ago. A few months ago it was a candle in a room burning through onto a towel and potentially turning a small problem into a life-threatening situation. None of these matters. If I hear an alarm my first thought is "Who's the idiot that set it off", not "ah, maybe I should evacuate".

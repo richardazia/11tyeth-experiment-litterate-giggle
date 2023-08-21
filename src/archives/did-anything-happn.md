@@ -1,8 +1,0 @@
----
-title: 'Did anything happn?'
-date: Tue, 12 Jul 2016 16:44:15 +0000
-draft: false
-tags: ['happn', 'social media', 'social media living room', 'social networking']
----
-
-Happn is a location based dating app, at least in theory. I have had the app on my mobile phones for a year or more and have yet to meet a Happn user in person. In theory Happn shows you who you have crossed paths with and where. It also tells you how many times you have crossed paths with specific individuals. One of the biggest limitations of this app is that for now users of the app are based in cities rather than the countryside. As a result I will cross path with dozens of people I go to Geneva or Lausanne but will cross paths with no one when I am up enjoying a via ferrata. I find this to be a shame. It is precisely when I am on a via ferrata that I want to find people to share the passion with. A few days ago I was at the Plainpalais fanzone in Geneva as people queued up and waited to get in to watch France Versus Germany. I launched the app and saw that a lot of people at the event had the app active. I walked away from the fanzone and forgot about the app. So far with this app I do not remember having any matches or making any real effort to meet people that I see come up. Some apps are fun for statistical analysis rather than face to face encounters. Two people I know have turned up on the app. I have enjoyed a few via ferratas with one of these people and worked on a number of interviews with the other. One is in Lausanne and the other in Geneva. We will see if I ever meet someone via the app. Knowing me it will happn (;-)) when I can be bothered.
