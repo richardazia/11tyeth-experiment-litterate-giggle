@@ -8,11 +8,11 @@ module.exports = function(eleventyConfig) {
 
 module.exports = function(eleventyConfig) {
   // Copy static assets to the output directory
-  eleventyConfig.addPassthroughCopy("src/archive");
+  eleventyConfig.addPassthroughCopy("archives");
 
   return {
     dir: {
-      input: "src",
+      input: "arhives",
       output: "dist"
     }
   };
